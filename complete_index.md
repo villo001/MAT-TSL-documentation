@@ -4,7 +4,7 @@ layout: default
 ---
 
 # 📚 Indice Completo della Documentazione
-Generato automaticamente tramite Jekyll + Liquid, con struttura ad albero ricorsiva.
+Generato automaticamente tramite Jekyll + Liquid
 
 ---
 
@@ -13,7 +13,7 @@ Generato automaticamente tramite Jekyll + Liquid, con struttura ad albero ricors
 1) RACCOLTA FILE
 ---------------------------------------------------------------------------------------
 Raccogliamo tutti i file markdown di Jekyll (site.pages) e costruiamo
-una mappa directory -> file, che poi useremo per generare l’albero ricorsivo.
+una lista organizzata per directory.
 ---------------------------------------------------------------------------------------
 {% endcomment %}
 
@@ -25,7 +25,6 @@ una mappa directory -> file, che poi useremo per generare l’albero ricorsivo.
     {% assign filename = parts | last %}
 
     {% if filename contains ".md" or filename contains ".html" %}
-        {% comment %} Directory del file (senza il nome) {% endcomment %}
         {% assign dir_path = "" %}
         {% for part in parts %}
             {% unless forloop.last %}
@@ -42,95 +41,47 @@ una mappa directory -> file, che poi useremo per generare l’albero ricorsivo.
     {% endif %}
 {% endfor %}
 
-
-
-{% comment %}
----------------------------------------------------------------------------------------
-2) FUNZIONE RICORSIVA
----------------------------------------------------------------------------------------
-Questa funzione stampa directory e sottodirectory infinite finché esistono.
-È il cuore del sistema.
----------------------------------------------------------------------------------------
-{% endcomment %}
-
-{% macro render_directory dir depth %}
-
-{% assign indent = "" %}
-{% for i in (1..depth) %}
-    {% assign indent = indent | append: "&nbsp;&nbsp;&nbsp;&nbsp;" %}
-{% endfor %}
-
-{% assign all_dirs = tree | keys | sort %}
-{% assign child_dirs = "" | split: "" %}
-
-{% for d in all_dirs %}
-    {% if d != dir and d != "" %}
-        {% if d contains dir %}
-            {% assign remainder = d | replace: dir, "" %}
-            {% if remainder contains "/" %}
-                {% assign parts = remainder | split: "/" %}
-                {% if parts[0] != "" and parts.size > 0 %}
-                    {% assign child_dirs = child_dirs | push: parts[0] %}
-                {% endif %}
-            {% endif %}
-        {% endif %}
-    {% endif %}
-{% endfor %}
-
-{% assign child_dirs = child_dirs | uniq | sort %}
-
-{{ indent }}<details open>
-<summary><strong>📁 {{ dir }}</strong></summary>
-
-<ul>
-
-{% if tree[dir] %}
-    {% assign files = tree[dir] | sort: "path" %}
-    {% for file in files %}
-        <li>{{ indent }}📄 <a href="{{ file.url }}">{{ file.title }}</a></li>
-    {% endfor %}
-{% endif %}
-
-{% for cd in child_dirs %}
-    {% assign full = dir | append: cd | append: "/" %}
-    <li>
-        {% call render_directory full depth=depth | plus:1 %}
-        {% endcall %}
-    </li>
-{% endfor %}
-
-</ul>
-</details>
-
-{% endmacro %}
-
-
-{% comment %}
----------------------------------------------------------------------------------------
-3) OTTENERE LE DIRECTORY RADICE (top level)
----------------------------------------------------------------------------------------
-Le directory che non sono figlie di nessun’altra directory.
----------------------------------------------------------------------------------------
-{% endcomment %}
-
-{% assign all_dirs = tree | keys | sort %}
-{% assign top = "" | split: "" %}
-
-{% for d in all_dirs %}
-    {% assign parent = d | split:"/" | first %}
-    {% unless top contains parent %}
-        {% assign top = top | push: parent %}
-    {% endunless %}
-{% endfor %}
-
 ---
 
-# 🌳 Struttura della documentazione
+# 🌳 Struttura della documentazione (fino a 3 livelli)
 
-{% for t in top %}
-    {% if t != "" %}
-        {% call render_directory dir=t | append: "/" depth=0 %}
-        {% endcall %}
-    {% endif %}
+{% assign all_dirs = tree | keys | sort %}
+
+{% assign top_dirs = "" | split: "" %}
+{% for d in all_dirs %}
+  {% assign parent = d | split:"/" | first %}
+  {% unless top_dirs contains parent %}
+    {% assign top_dirs = top_dirs | push: parent %}
+  {% endunless %}
+{% endfor %}
+
+{% for dir1 in top_dirs %}
+  <details>
+    <summary>📁 {{ dir1 }}</summary>
+    <ul>
+    {% for page in site.pages %}
+      {% assign parts = page.path | split:"/" %}
+      {% if parts[0] == dir1 %}
+        {% if parts.size == 1 %}
+          <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% elsif parts.size == 2 %}
+          <details>
+            <summary>📁 {{ parts[1] }}</summary>
+            <ul>
+              <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
+            </ul>
+          </details>
+        {% elsif parts.size == 3 %}
+          <details>
+            <summary>📁 {{ parts[1] }}/{{ parts[2] }}</summary>
+            <ul>
+              <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
+            </ul>
+          </details>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </details>
 {% endfor %}
 
