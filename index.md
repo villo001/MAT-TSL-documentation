@@ -25,8 +25,12 @@ Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend
 
 # Indice dei documenti
 
-{% assign folders = site.pages | map: "path" | map: "split:'/'" | map: "first" | uniq %}
+{% assign docs = site.pages | where_exp:"p","p.path ends_with '.md'" %}
 
-{% for page in site.pages %}
-- [{{ page.title }}]({{ page.url }})
+<ul>
+{% for page in docs %}
+  {% if page.title and page.url != '/' %}
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% endif %}
 {% endfor %}
+</ul>
