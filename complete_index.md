@@ -43,45 +43,35 @@ una lista organizzata per directory.
 
 ---
 
-# 🌳 Struttura della documentazione (fino a 3 livelli)
+# 🌳 Struttura della documentazione
 
-{% assign all_dirs = tree | keys | sort %}
+{% assign dirs = site.pages | map: "path" | map: "split:'/'" | map: "first" | uniq | sort %}
 
-{% assign top_dirs = "" | split: "" %}
-{% for d in all_dirs %}
-  {% assign parent = d | split:"/" | first %}
-  {% unless top_dirs contains parent %}
-    {% assign top_dirs = top_dirs | push: parent %}
-  {% endunless %}
-{% endfor %}
-
-{% for dir1 in top_dirs %}
-  <details>
-    <summary>📁 {{ dir1 }}</summary>
-    <ul>
-    {% for page in site.pages %}
-      {% assign parts = page.path | split:"/" %}
-      {% if parts[0] == dir1 %}
-        {% if parts.size == 1 %}
+{% for dir in dirs %}
+  {% if dir == "" %}
+    <details open>
+      <summary>📁 /</summary>
+      <ul>
+      {% for page in site.pages %}
+        {% assign parts = page.path | split:"/" %}
+        {% if parts.size == 1 and page.title and page.url != "/" %}
           <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
-        {% elsif parts.size == 2 %}
-          <details>
-            <summary>📁 {{ parts[1] }}</summary>
-            <ul>
-              <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
-            </ul>
-          </details>
-        {% elsif parts.size == 3 %}
-          <details>
-            <summary>📁 {{ parts[1] }}/{{ parts[2] }}</summary>
-            <ul>
-              <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
-            </ul>
-          </details>
         {% endif %}
-      {% endif %}
-    {% endfor %}
-    </ul>
-  </details>
+      {% endfor %}
+      </ul>
+    </details>
+  {% else %}
+    <details>
+      <summary>📁 {{ dir }}</summary>
+      <ul>
+      {% for page in site.pages %}
+        {% assign parts = page.path | split:"/" %}
+        {% if parts[0] == dir %}
+          <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </details>
+  {% endif %}
 {% endfor %}
 
