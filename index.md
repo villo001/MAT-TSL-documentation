@@ -27,11 +27,11 @@ Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend
 
 {% assign docs = site.pages | where_exp:"p","p.path contains '.md'" | sort:"path" %}
 
-{% comment %}
-Creiamo un albero cartella -> sottocartella -> file
-{% endcomment %}
 {% assign tree = {} %}
 
+{% comment %}
+Costruzione albero: cartella -> sottocartella -> file
+{% endcomment %}
 {% for page in docs %}
   {% assign parts = page.path | split:'/' %}
   {% assign folder = parts[0] %}
@@ -39,19 +39,16 @@ Creiamo un albero cartella -> sottocartella -> file
 
   {% if tree[folder] %}
     {% if subfolder %}
-      {% assign sub = tree[folder][subfolder] %}
-      {% if sub %}
-        {% assign updated = sub | push: page %}
-        {% assign tree[folder][subfolder] = updated %}
+      {% if tree[folder][subfolder] %}
+        {% assign tree[folder][subfolder] = tree[folder][subfolder] | push: page %}
       {% else %}
-        {% assign tree[folder] = tree[folder] | merge: subfolder: page | split: "" %}
+        {% assign tree[folder][subfolder] = page | split:"" %}
       {% endif %}
     {% else %}
-      {% assign files = tree[folder]['__files'] %}
-      {% if files %}
-        {% assign files = files | push: page %}
+      {% if tree[folder]['__files'] %}
+        {% assign tree[folder]['__files'] = tree[folder]['__files'] | push: page %}
       {% else %}
-        {% assign tree[folder] = tree[folder] | merge: '__files': page | split: "" %}
+        {% assign tree[folder]['__files'] = page | split:"" %}
       {% endif %}
     {% endif %}
   {% else %}
@@ -65,27 +62,28 @@ Creiamo un albero cartella -> sottocartella -> file
 {% endfor %}
 
 {% comment %}
-Funzione ricorsiva per stampare l'albero
+Stampa ad albero compatibile GitHub Pages
 {% endcomment %}
-{% macro render_tree node %}
 <ul>
-{% for key in node %}
-  {% if key[0] == '__files' %}
-    {% for f in key[1] %}
-      <li><a href="{{ f.url | relative_url }}">{{ f.title }}</a></li>
-    {% endfor %}
-  {% else %}
-    <li>{{ key[0] }}
-      {% assign child = key[1] %}
-      {% if child %}
-        {% call render_tree child %}
-        {% endcall %}
-      {% endif %}
-    </li>
-  {% endif %}
+{% for folder in tree %}
+  <li>{{ folder[0] }}
+    <ul>
+      {% for key in folder[1] %}
+        {% if key[0] == '__files' %}
+          {% for f in key[1] %}
+            <li><a href="{{ f.url | relative_url }}">{{ f.title }}</a></li>
+          {% endfor %}
+        {% else %}
+          <li>{{ key[0] }}
+            <ul>
+              {% for f in key[1] %}
+                <li><a href="{{ f.url | relative_url }}">{{ f.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </li>
 {% endfor %}
 </ul>
-{% endmacro %}
-
-{% call render_tree tree %}
-{% endcall %}
