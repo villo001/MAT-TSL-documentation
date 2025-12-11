@@ -26,38 +26,36 @@ Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend
 # Indice dei documenti
 
 {% comment %}
-Raccogliamo tutti i file markdown con front matter
+Raccogliamo tutti i file markdown e costruiamo l'albero
 {% endcomment %}
-{% assign docs = site.pages | where_exp:"p","p.content contains '---'" | sort:"path" %}
+{% assign docs = site.pages | sort: "path" %}
 
 {% assign tree = {} %}
 
 {% for page in docs %}
-  {% assign parts = page.path | split:'/' %}
-  {% assign folder = parts[0] %}
+  {% assign filename = page.path | split:'/' | last %}
 
-  {% if parts.size > 1 %}
-    {% assign subfolder = parts[1] %}
-  {% else %}
-    {% assign subfolder = nil %}
-  {% endif %}
+  {% if filename contains ".md" %}
+    {% assign parts = page.path | split:'/' %}
+    {% assign folder = parts[0] %}
+    {% assign subfolder = parts.size > 2 ? parts[1] : nil %}
 
-  {% comment %} Inizializzo la cartella se non esiste {% endcomment %}
-  {% if tree[folder] == nil %}
-    {% assign tree = tree | merge: folder: {} %}
-  {% endif %}
-
-  {% if subfolder %}
-    {% if tree[folder][subfolder] %}
-      {% assign tree[folder][subfolder] = tree[folder][subfolder] | push: page %}
-    {% else %}
-      {% assign tree[folder] = tree[folder] | merge: subfolder: page | split:"" %}
+    {% if tree[folder] == nil %}
+      {% assign tree = tree | merge: folder: {} %}
     {% endif %}
-  {% else %}
-    {% if tree[folder]['__files'] %}
-      {% assign tree[folder]['__files'] = tree[folder]['__files'] | push: page %}
+
+    {% if subfolder %}
+      {% if tree[folder][subfolder] %}
+        {% assign tree[folder][subfolder] = tree[folder][subfolder] | push: page %}
+      {% else %}
+        {% assign tree[folder] = tree[folder] | merge: subfolder: page | split:"" %}
+      {% endif %}
     {% else %}
-      {% assign tree[folder] = tree[folder] | merge: '__files': page | split:"" %}
+      {% if tree[folder]['__files'] %}
+        {% assign tree[folder]['__files'] = tree[folder]['__files'] | push: page %}
+      {% else %}
+        {% assign tree[folder] = tree[folder] | merge: '__files': page | split:"" %}
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
