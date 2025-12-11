@@ -2,7 +2,6 @@
 title: Licenza della documentazione
 layout: default
 ---
-
 Creative Commons Legal Code
 
 CC0 1.0 Universal

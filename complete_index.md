@@ -2,7 +2,6 @@
 title: Indice Completo
 layout: default
 ---
-
 # Indice completo ad albero della documentazione
 
 Generato automaticamente tramite Jekyll + Liquid.
