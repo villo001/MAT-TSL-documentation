@@ -25,12 +25,67 @@ Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend
 
 # Indice dei documenti
 
-{% assign docs = site.pages | where_exp:"p","p.path contains '.md'" %}
+{% assign docs = site.pages | where_exp:"p","p.path contains '.md'" | sort:"path" %}
 
-<ul>
+{% comment %}
+Creiamo un albero cartella -> sottocartella -> file
+{% endcomment %}
+{% assign tree = {} %}
+
 {% for page in docs %}
-  {% if page.title and page.url != "/" %}
-    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+  {% assign parts = page.path | split:'/' %}
+  {% assign folder = parts[0] %}
+  {% assign subfolder = parts.size > 2 ? parts[1] : nil %}
+
+  {% if tree[folder] %}
+    {% if subfolder %}
+      {% assign sub = tree[folder][subfolder] %}
+      {% if sub %}
+        {% assign updated = sub | push: page %}
+        {% assign tree[folder][subfolder] = updated %}
+      {% else %}
+        {% assign tree[folder] = tree[folder] | merge: subfolder: page | split: "" %}
+      {% endif %}
+    {% else %}
+      {% assign files = tree[folder]['__files'] %}
+      {% if files %}
+        {% assign files = files | push: page %}
+      {% else %}
+        {% assign tree[folder] = tree[folder] | merge: '__files': page | split: "" %}
+      {% endif %}
+    {% endif %}
+  {% else %}
+    {% assign tree = tree | merge: folder: {} %}
+    {% if subfolder %}
+      {% assign tree[folder] = tree[folder] | merge: subfolder: page | split:"" %}
+    {% else %}
+      {% assign tree[folder] = tree[folder] | merge: '__files': page | split:"" %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+Funzione ricorsiva per stampare l'albero
+{% endcomment %}
+{% macro render_tree node %}
+<ul>
+{% for key in node %}
+  {% if key[0] == '__files' %}
+    {% for f in key[1] %}
+      <li><a href="{{ f.url | relative_url }}">{{ f.title }}</a></li>
+    {% endfor %}
+  {% else %}
+    <li>{{ key[0] }}
+      {% assign child = key[1] %}
+      {% if child %}
+        {% call render_tree child %}
+        {% endcall %}
+      {% endif %}
+    </li>
   {% endif %}
 {% endfor %}
 </ul>
+{% endmacro %}
+
+{% call render_tree tree %}
+{% endcall %}
