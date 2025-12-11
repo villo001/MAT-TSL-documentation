@@ -1,6 +1,6 @@
 ---
 title: Indice
-layout: default
+layout: fallout
 ---
 
 # Mediterranean Atomic Tales - The Sunken Lands
