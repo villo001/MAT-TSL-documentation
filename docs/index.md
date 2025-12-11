@@ -1,6 +1,6 @@
 ---
 title: Test
-layout: architect
+layout: default
 ---
 
 # Mediterranean Atomic Tales - The Sunken Lands - Test dentro una dir
