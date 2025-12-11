@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <!-- Breadcrumb -->
+  <nav aria-label="breadcrumb" style="font-size:0.9em; margin-bottom:1em;">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    {% assign parts = page.path | split:'/' %}
+    {% assign path_acc = "" %}
+    {% for part in parts %}
+      {% assign is_file = forloop.last %}
+      {% if part != "" %}
+        {% if is_file %}
+          &gt; {{ part | replace: '.md','' | replace: '_',' ' | capitalize }}
+        {% else %}
+          {% assign path_acc = path_acc | append: part | append: '/' %}
+          &gt; <a href="{{ path_acc | relative_url }}">{{ part | replace: '_',' ' | capitalize }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </nav>
+
+  <!-- Contenuto pagina -->
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
