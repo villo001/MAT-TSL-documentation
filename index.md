@@ -25,45 +25,43 @@ Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend
 
 # Indice dei documenti
 
-{% assign docs = site.pages | where_exp:"p","p.path contains '.md'" | sort:"path" %}
+{% comment %}
+Raccogliamo tutti i file markdown con front matter
+{% endcomment %}
+{% assign docs = site.pages | where_exp:"p","p.content contains '---'" | sort:"path" %}
 
 {% assign tree = {} %}
 
-{% comment %}
-Costruzione albero: cartella -> sottocartella -> file
-{% endcomment %}
 {% for page in docs %}
   {% assign parts = page.path | split:'/' %}
   {% assign folder = parts[0] %}
-  {% assign subfolder = parts.size > 2 ? parts[1] : nil %}
 
-  {% if tree[folder] %}
-    {% if subfolder %}
-      {% if tree[folder][subfolder] %}
-        {% assign tree[folder][subfolder] = tree[folder][subfolder] | push: page %}
-      {% else %}
-        {% assign tree[folder][subfolder] = page | split:"" %}
-      {% endif %}
+  {% if parts.size > 1 %}
+    {% assign subfolder = parts[1] %}
+  {% else %}
+    {% assign subfolder = nil %}
+  {% endif %}
+
+  {% comment %} Inizializzo la cartella se non esiste {% endcomment %}
+  {% if tree[folder] == nil %}
+    {% assign tree = tree | merge: folder: {} %}
+  {% endif %}
+
+  {% if subfolder %}
+    {% if tree[folder][subfolder] %}
+      {% assign tree[folder][subfolder] = tree[folder][subfolder] | push: page %}
     {% else %}
-      {% if tree[folder]['__files'] %}
-        {% assign tree[folder]['__files'] = tree[folder]['__files'] | push: page %}
-      {% else %}
-        {% assign tree[folder]['__files'] = page | split:"" %}
-      {% endif %}
+      {% assign tree[folder] = tree[folder] | merge: subfolder: page | split:"" %}
     {% endif %}
   {% else %}
-    {% assign tree = tree | merge: folder: {} %}
-    {% if subfolder %}
-      {% assign tree[folder] = tree[folder] | merge: subfolder: page | split:"" %}
+    {% if tree[folder]['__files'] %}
+      {% assign tree[folder]['__files'] = tree[folder]['__files'] | push: page %}
     {% else %}
       {% assign tree[folder] = tree[folder] | merge: '__files': page | split:"" %}
     {% endif %}
   {% endif %}
 {% endfor %}
 
-{% comment %}
-Stampa ad albero compatibile GitHub Pages
-{% endcomment %}
 <ul>
 {% for folder in tree %}
   <li>{{ folder[0] }}
