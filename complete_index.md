@@ -1,77 +1,74 @@
 ---
-title: MAT:TSL Indice Completo
+title: Indice Completo
 layout: default
 ---
 
-# 📚 Indice Completo della Documentazione
-Generato automaticamente tramite Jekyll + Liquid
+# 🌳 Indice Completo della Documentazione (Struttura ad Albero)
+
+Questo indice è generato automaticamente tramite Jekyll + Liquid.
 
 ---
 
 {% comment %}
----------------------------------------------------------------------------------------
-1) RACCOLTA FILE
----------------------------------------------------------------------------------------
-Raccogliamo tutti i file markdown di Jekyll (site.pages) e costruiamo
-una lista organizzata per directory.
----------------------------------------------------------------------------------------
+1) Filtra solo file Markdown con front matter
+2) Estrae il loro "directory path"
+3) Costruisce un albero logico
+{% endcomment %}
+
+{% assign docs = site.pages | where_exp:"p","p.path contains '.md'" | sort: "path" %}
+
+{% comment %}
+Costruzione dell'albero:  
+Esempio:  
+"lore/history/timeline.md" → ["lore", "history", "timeline.md"]
 {% endcomment %}
 
 {% assign tree = {} %}
 
-{% for page in site.pages %}
-    {% assign path = page.path %}
-    {% assign parts = path | split: "/" %}
-    {% assign filename = parts | last %}
+{% for page in docs %}
+  {% assign parts = page.path | split:"/" %}
+  {% assign current = tree %}
 
-    {% if filename contains ".md" or filename contains ".html" %}
-        {% assign dir_path = "" %}
-        {% for part in parts %}
-            {% unless forloop.last %}
-                {% assign dir_path = dir_path | append: part | append: "/" %}
-            {% endunless %}
-        {% endfor %}
-
-        {% if tree[dir_path] %}
-            {% assign updated = tree[dir_path] | push: page %}
-            {% assign tree = tree | merge: dir_path: updated %}
-        {% else %}
-            {% assign tree = tree | merge: dir_path: page | split: "." %}
-        {% endif %}
+  {% for part in parts %}
+    {% if forloop.last %}
+      {% comment %} Foglia: il file {% endcomment %}
+      {% if current[part] == nil %}
+        {% assign current = current | merge: part: page %}
+      {% endif %}
+    {% else %}
+      {% comment %} Nodo directory {% endcomment %}
+      {% if current[part] == nil %}
+        {% assign current = current | merge: part: {} %}
+      {% endif %}
+      {% assign current = current[part] %}
     {% endif %}
+  {% endfor %}
 {% endfor %}
 
 ---
 
-# 🌳 Struttura della documentazione
+{% comment %}
+Funzione ricorsiva per stampare l’albero delle directory
+{% endcomment %}
 
-{% assign dirs = site.pages | map: "path" | map: "split:'/'" | map: "first" | uniq | sort %}
+{% macro render_tree node depth %}
+  <ul style="margin-left: {{ depth | times: 20 }}px;">
+  {% for key in node %}
+    {% assign val = node[key] %}
+    {% if val.path %}
+      <li>📄 <a href="{{ val.url | relative_url }}">{{ val.title | default: key }}</a></li>
+    {% else %}
+      <li>📁 <strong>{{ key }}</strong>
+        {{ render_tree(val, depth | plus: 1) }}
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endmacro %}
 
-{% for dir in dirs %}
-  {% if dir == "" %}
-    <details open>
-      <summary>📁 /</summary>
-      <ul>
-      {% for page in site.pages %}
-        {% assign parts = page.path | split:"/" %}
-        {% if parts.size == 1 and page.title and page.url != "/" %}
-          <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </details>
-  {% else %}
-    <details>
-      <summary>📁 {{ dir }}</summary>
-      <ul>
-      {% for page in site.pages %}
-        {% assign parts = page.path | split:"/" %}
-        {% if parts[0] == dir %}
-          <li>📄 <a href="{{ page.url }}">{{ page.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </details>
-  {% endif %}
-{% endfor %}
+---
+
+# 📁 Struttura dei file
+
+{{ render_tree(tree, 0) }}
 
