@@ -1,6 +1,6 @@
 ---
 title: Indice Completo
-layout: fallout
+layout: architect
 ---
 
 # 🌳 Indice Completo della Documentazione (Struttura a sezioni)

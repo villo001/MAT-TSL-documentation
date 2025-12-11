@@ -1,6 +1,6 @@
 ---
 title: Licenza della documentazione
-layout: fallout
+layout: architect
 ---
 
 Creative Commons Legal Code
