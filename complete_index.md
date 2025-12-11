@@ -3,10 +3,9 @@ title: Indice Completo
 layout: default
 ---
 
-# 🌳 Indice Completo della Documentazione (Struttura a sezioni)
+# Indice completo ad albero della documentazione
 
-Questo indice è generato automaticamente tramite Jekyll + Liquid.
-Mostra ogni "directory" (anche la root `/`) e i file markdown al suo interno.
+Generato automaticamente tramite Jekyll + Liquid.
 
 ---
 
