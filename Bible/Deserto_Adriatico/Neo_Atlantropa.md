@@ -38,7 +38,7 @@ Questa visione utopica fu ripresa dalla Comunità Europea nel XXI secolo in risp
 ## 3. Obiettivi di Neo Atlantropa
 ### 3.1. Energia Continentale
 Il progetto prevedeva centrali idroelettriche colossali integrate nelle dighe di chiusura del Mediterraneo, in grado di:
-- fornire energia “pulita” ai paesi membri;
+- fornire energia in grosse quantità ai paesi membri;
 - ridurre la dipendenza dai combustibili fossili;
 - stimolare l’industrializzazione e l’occupazione.
 
@@ -57,21 +57,21 @@ Le potenze europee investirono risorse enormi nel progetto per affrontare:
 - l’esigenza di stabilità energetica prima del 2077.
 
 ## 4. Cronologia di Neo Atlantropa
-La timeline che segue è schematica indicando i periodi chiave dello sviluppo dell’iniziativa, è disponibile comunque una [timeline dettagliata](Bible/Deserto_Adriatico/Timeline_Neo_Atlantropa).
+La timeline che segue è schematica indicando i periodi chiave dello sviluppo dell’iniziativa, è disponibile comunque una [timeline dettagliata](https://villo001.github.io/MAT-TSL-documentation/Bible/Deserto_Adriatico/Timeline_Neo_Atlantropa).
 
-### 2050–2065: Preludio e Studi Iniziali
-- L’escalation delle **Guerre delle Risorse** spinge la Comunità Europea a finanziare grandi progetti ingegneristici.
-- Commissioni scientifiche studiano l’idea di un Atlantropa moderno basato su tecnologie avanzate di pompaggio e controllo delle acque.
-- Prime proposte di dighe e manufatti di controllo del livello marino emergono nei piani comunitari.
+### 2000–2025: Preludio e Studi Iniziali
+- l’escalation delle Guerre delle Risorse spinge la Comunità Europea a finanziare grandi progetti ingegneristici;
+- commissioni scientifiche studiano l’idea di un Atlantropa moderno basato su tecnologie avanzate di pompaggio e controllo delle acque;
+- prime proposte di dighe e manufatti di controllo del livello marino emergono nei piani comunitari.
 
-### 2065–2075: Costruzione e Avanzamento
+### 2025–2060: Costruzione e Avanzamento
 - avvio dei cantieri per le opere di chiusura dello Stretto di Gibilterra;
 - Progetti di dighe secondarie nei Dardanelli e in altri punti strategici sono delineati, ma solo Gibilterra entra realmente in fase costruttiva avanzata;
 - Squadre di ingegneri, maestranze e tecnici si spostano lungo l’area mediterranea per lavori, studi geologici e monitoraggi.
 
 > In questa fase si verifica il progressivo e graduale ritiro delle acque mediterranee, con impatto diretto sull’Alto Adriatico.
 
-### 2075–2077: Crisi Finale e Abbandono
+### 2060–2077: Crisi Finale e Abbandono
 - la Comunità Europea si dissolve per ragioni politiche interne e per la pressione crescente delle Guerre delle Risorse;
 - i cantieri subiscono ritardi, interruzioni e abbandoni;
 - le infrastrutture principali (incluse pompe, dighe parziali e opere di drenaggio) restano incomplete o mal gestite;

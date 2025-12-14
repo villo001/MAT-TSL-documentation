@@ -17,7 +17,7 @@ La crescente instabilità geopolitica globale dovuta alla riduzione delle riserv
 In questa fase riemerge in ambito accademico e politico il progetto storico [Atlantropa](https://it.wikipedia.org/wiki/Atlantropa) come possibile base teorica.
 
 ## Fase I – Concettualizzazione (2010–2020)
-Nascita del concetto di [Neo Atlantropa](Bible/Deserto_Adriatico/Neo_Atlantropa), adattato alle tecnologie del XXI secolo.
+Nascita del concetto di Neo Atlantropa, adattato alle tecnologie del XXI secolo.
 
 Vengono effettuati studi di fattibilità su:
 - controllo del livello marino tramite dighe intelligenti;
@@ -62,7 +62,7 @@ Le infrastrutture rimaste continuano a influenzare il livello delle acque in mod
 Entro la fine del 2077 il Mediterraneo è considerato interamente prosciugato tranne le fosse più profonde, diventati biccoli bacini chiusi ad altissima salinità.
 
 ## Fase VI – Era Postbellica (2077–2287)
-Due secoli di tempeste, vento costante e alterazioni climatiche estreme trasformano il vecchio fondale adriatico nel [Deserto Adriatico](Bible/Deserto_Adriatico/Deserto_Adriatico):
+Due secoli di tempeste, vento costante e alterazioni climatiche estreme trasformano il vecchio fondale adriatico nel [Deserto Adriatico](https://villo001.github.io/MAT-TSL-documentation/Bible/Deserto_Adriatico/Deserto_Adriatico):
 - dune di sabbia e limo;
 - superfici erose e polverizzate;
 - clima caldo e ostile.
