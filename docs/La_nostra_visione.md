@@ -555,15 +555,3 @@ Una vera e propria fazione.
 Ciò apre un mondo intero di possibilità e di interazioni possibili con altre fazioni libertarie, tecnocratiche, religiose, anarchiche, praticamente con fazioni che mimano i comportamenti e i sistemi di valori delle fazioni della Saga originale.
 
 Ecco cosa ci caratterizza, cosa caratterizza il nostro setting, un intero deserto di dune sabbione nel quale vive una fazione che in realtà è un intero popolo nomade nel deserto, che ci sa vivere, lo sa sfruttare, ne sa usare le risorse e sa gestire tutte le situazioni che si possano creare, popolo che è in contrasto con tutte le altre fazioni.
-
-
-
----
-
-# TBD
-Non necessariamente in questo ordine:
-- scoperta degli Eliobionti da parte di CNR ed ENEA 
-- industrializzazione della bioelettricità da parte di Eni e Nova
-- sviluppo futuro post Grande Guerra
-
-
