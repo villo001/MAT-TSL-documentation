@@ -3,25 +3,24 @@ description: The Sunken Lands
 #theme: jekyll-theme-architect
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
-sidebar:
-  - home
-  - gamevision
-  - label: Bible
-    children:
-      - label: Deserto Adriatico
-        - desertoadriatico
-        - neoatlantropa
-        - timelineneoatlantropa
-      - worldbuilding
-  - documentationlicense
-#
-#
-#collections:
-#  # lore/worldbuilding documents
-#  bible:
-#    output: true
-#    permalink: /bible/:path/
-#  # vision / guide / technical documentation
-#  docs:
-#    output: true
-#    permalink: /docs/:path/
+collections:
+  # lore/worldbuilding documents
+  bible:
+    output: true
+    permalink: /bible/:path/
+  # vision / guide / technical documentation
+  docs:
+    output: true
+    permalink: /docs/:path/
+#sidebar:
+#  - home
+#  - gamevision
+#  - label: Bible
+#    children:
+#      - label: Deserto Adriatico
+#        - desertoadriatico
+#        - neoatlantropa
+#        - timelineneoatlantropa
+#      - worldbuilding
+#  - documentationlicense
+
