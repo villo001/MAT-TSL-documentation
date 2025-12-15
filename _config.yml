@@ -1,6 +1,7 @@
 title: Mediterranean Atomic Tales
 description: The Sunken Lands
 #theme: jekyll-theme-architect
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 sidebar:
   - home
