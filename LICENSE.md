@@ -3,6 +3,8 @@ title: LICENSE
 layout: default
 status: stable
 version: 1.0
+id: docuementationlicense
+sidebar_label: Licenza documentazione
 ---
 Creative Commons Legal Code
 

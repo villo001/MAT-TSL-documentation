@@ -1,9 +1,10 @@
 ---
 title: Timeline Neo Atlantropa
 order: 30
-layout: doc
+#layout: doc
 status: draft
 version: 0.0.1
+id: timelineneoatlantropa
 ---
 # Documento di sintesi - Progetto Neo Atlantropa - Timeline Storica Dettagliata
 *Progetto di ingegneria geo-politica che ha cambiato il Mediterraneo*

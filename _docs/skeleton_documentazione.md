@@ -1,7 +1,7 @@
 ---
 title: Skeleton documentazione
 order: 20
-layout: doc
+#layout: doc
 status: draft
 version: 0.0.1
 ---

@@ -1,9 +1,9 @@
 ---
 title: MAT-TSL Documentation
-layout: doc
-order: 0
 status: draft
 version: 0.0.1
+id: home
+sidebar_label: Home
 ---
 # Un gioco di ruolo post apocalittico ambientato in Italia
 

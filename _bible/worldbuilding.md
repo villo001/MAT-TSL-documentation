@@ -1,9 +1,10 @@
 ---
 title: Worldbuilding
 order: 10
-layout: doc
+#layout: doc
 status: draft
 version: 0.0.1
+id: worldbuilding
 ---
 # Documento di worldbuilding per MAT:TSL
 *Documento di Lore ufficiale – Ambientazione MAT:TSL*

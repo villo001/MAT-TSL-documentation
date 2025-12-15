@@ -1,9 +1,11 @@
 ---
 title: La nostra visione
 order: 1	# subito dopo Home
-layout: doc
+#layout: doc
 status: draft
 version: 0.0.1
+id: gamevision
+sidebar_label: La nostra visione
 ---
 # Mediterranean Atomic Tales: The Sunken Lands
 

@@ -2,12 +2,27 @@ title: Mediterranean Atomic Tales
 description: The Sunken Lands
 #theme: jekyll-theme-architect
 
-collections:
-  # lore/worldbuilding documents
-  bible:
-    output: true
-    permalink: /bible/:path/
-  # vision / guide / technical documentation
-  docs:
-    output: true
-    permalink: /docs/:path/
+sidebar:
+  - home
+  - gamevision
+  - label: Bible
+    children:
+      - label: Deserto Adriatico
+        - desertoadriatico
+        - neoatlantropa
+        - timelineneoatlantropa
+      - worldbuilding
+  
+  - deployment
+  - documentationlicense
+#
+#
+#collections:
+#  # lore/worldbuilding documents
+#  bible:
+#    output: true
+#    permalink: /bible/:path/
+#  # vision / guide / technical documentation
+#  docs:
+#    output: true
+#    permalink: /docs/:path/
