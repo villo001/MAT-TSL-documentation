@@ -17,20 +17,19 @@
   <!-- Bible -->
   <h3>Bible</h3>
   <ul>
-    {% assign bible_docs = site.bible | sort: "order" %}
+    {% assign bible_docs = site.bible | sort:"order" %}
     {% assign processed_dirs = "" | split: "" %}
 
     {% for doc in bible_docs %}
       {% assign parts = doc.path | split:"/" %}
       {% assign filename = parts | last %}
-      {% assign dir_parts = parts | slice:1, parts.size | slice:0, parts.size-1 %}
+      {% assign dir_parts = parts | slice:1, parts.size-2 %}
       {% assign dir = dir_parts | join:"/" %}
 
       {% if dir == "" %}
         <!-- documento root -->
         <li>📄 <a href="{{ doc.url | relative_url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>{{ doc.title }}</a></li>
       {% else %}
-        <!-- documento in sottocartella -->
         {% unless processed_dirs contains dir %}
           {% assign processed_dirs = processed_dirs | push: dir %}
           <li>📁 {{ dir | split:"/" | last | capitalize }}
@@ -38,9 +37,9 @@
               {% for child in bible_docs %}
                 {% assign child_parts = child.path | split:"/" %}
                 {% assign child_filename = child_parts | last %}
-                {% assign child_dir_parts = child_parts | slice:1, child_parts.size | slice:0, child_parts.size-1 %}
+                {% assign child_dir_parts = child_parts | slice:1, child_parts.size-2 %}
                 {% assign child_dir = child_dir_parts | join:"/" %}
-                {% if child_dir == dir and child_filename != child | split:"/" | last %}
+                {% if child_dir == dir %}
                   <li>📄 <a href="{{ child.url | relative_url }}" {% if page.url == child.url %}style="font-weight:bold"{% endif %}>{{ child.title }}</a></li>
                 {% endif %}
               {% endfor %}
