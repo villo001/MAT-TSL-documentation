@@ -4,6 +4,7 @@ status: draft
 version: 0.0.1
 id: home
 sidebar_label: Home
+layout: default
 ---
 # Un gioco di ruolo post apocalittico ambientato in Italia
 

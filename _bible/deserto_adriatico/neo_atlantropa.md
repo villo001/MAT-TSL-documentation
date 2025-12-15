@@ -1,7 +1,7 @@
 ---
 title: Neo Atlantropa
 order: 20
-#layout: doc
+layout: doc
 status: draft
 version: 0.0.1
 id: neoatlantropa

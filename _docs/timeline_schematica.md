@@ -1,7 +1,7 @@
 ---
 title: Timeline schematica
 order: 30
-#layout: doc
+layout: doc
 status: draft
 version: 0.0.1
 ---
