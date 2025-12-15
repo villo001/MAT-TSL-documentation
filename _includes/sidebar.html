@@ -1,0 +1,56 @@
+<nav class="sidebar" style="width:260px; padding:1rem; border-right:1px solid #ccc;">
+
+  <!-- Bible -->
+  <h3>Bible</h3>
+  <ul>
+    {%- assign root_docs = site.bible | where_exp:"p","p.section == nil" | sort: "order" -%}
+    {%- for doc in root_docs -%}
+      <li>
+        <a href="{{ doc.url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>
+          {{ doc.title }}
+        </a>
+
+        {%- assign child_docs = site.bible | where:"section", doc.title | sort:"order" -%}
+        {%- if child_docs != empty -%}
+          <ul>
+            {%- for child in child_docs -%}
+              <li>
+                <a href="{{ child.url }}" {% if page.url == child.url %}style="font-weight:bold"{% endif %}>
+                  {{ child.title }}
+                </a>
+
+                {%- assign grandchild_docs = site.bible | where:"section", child.title | sort:"order" -%}
+                {%- if grandchild_docs != empty -%}
+                  <ul>
+                    {%- for grandchild in grandchild_docs -%}
+                      <li>
+                        <a href="{{ grandchild.url }}" {% if page.url == grandchild.url %}style="font-weight:bold"{% endif %}>
+                          {{ grandchild.title }}
+                        </a>
+                      </li>
+                    {%- endfor -%}
+                  </ul>
+                {%- endif -%}
+
+              </li>
+            {%- endfor -%}
+          </ul>
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+
+  <!-- Docs -->
+  <h3>Documentazione</h3>
+  <ul>
+    {% assign docs = site.docs | sort: "order" %}
+    {% for doc in docs %}
+      <li>
+        <a href="{{ doc.url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>
+          {{ doc.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</nav>
