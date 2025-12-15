@@ -4,7 +4,6 @@ order: 30
 layout: doc
 status: draft
 version: 0.0.1
-section: Deserto Adriatico
 ---
 # Documento di sintesi - Progetto Neo Atlantropa - Timeline Storica Dettagliata
 *Progetto di ingegneria geo-politica che ha cambiato il Mediterraneo*

@@ -4,7 +4,6 @@ order: 10
 layout: doc
 status: draft
 version: 0.0.1
-section: Deserto Adriatico
 ---
 # Il Deserto Adriatico
 *Documento di Lore ufficiale – Ambientazione MAT:TSL*

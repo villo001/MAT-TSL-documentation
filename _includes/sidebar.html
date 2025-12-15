@@ -3,50 +3,53 @@
   <!-- Bible -->
   <h3>Bible</h3>
   <ul>
-    {%- assign root_docs = site.bible | where_exp:"p","p.section == nil" | sort: "order" -%}
-    {%- for doc in root_docs -%}
-      <li>
-        <a href="{{ doc.url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>
-          {{ doc.title }}
-        </a>
+    {% assign bible_paths = site.bible | sort: "order" %}
+    {% assign processed_dirs = "" | split: "" %}
 
-        {%- assign child_docs = site.bible | where:"section", doc.title | sort:"order" -%}
-        {%- if child_docs != empty -%}
-          <ul>
-            {%- for child in child_docs -%}
-              <li>
-                <a href="{{ child.url }}" {% if page.url == child.url %}style="font-weight:bold"{% endif %}>
-                  {{ child.title }}
-                </a>
+    {% for doc in bible_paths %}
+      {% assign parts = doc.path | split: "/" %}
+      {% assign dir_parts = parts | slice: 1, parts.size | slice: 0, parts.size-1 %}
+      {% assign dir = dir_parts | join: "/" %}
 
-                {%- assign grandchild_docs = site.bible | where:"section", child.title | sort:"order" -%}
-                {%- if grandchild_docs != empty -%}
-                  <ul>
-                    {%- for grandchild in grandchild_docs -%}
-                      <li>
-                        <a href="{{ grandchild.url }}" {% if page.url == grandchild.url %}style="font-weight:bold"{% endif %}>
-                          {{ grandchild.title }}
-                        </a>
-                      </li>
-                    {%- endfor -%}
-                  </ul>
-                {%- endif -%}
+      {% unless processed_dirs contains dir %}
+        {% assign processed_dirs = processed_dirs | push: dir %}
 
-              </li>
-            {%- endfor -%}
-          </ul>
-        {%- endif -%}
-      </li>
-    {%- endfor -%}
+        {% if dir != "" %}
+          <li>
+            📁 {{ dir | split: "/" | last | capitalize }}
+            <ul>
+              {% for child in bible_paths %}
+                {% assign child_parts = child.path | split: "/" %}
+                {% assign child_dir_parts = child_parts | slice: 1, child_parts.size | slice: 0, child_parts.size-1 %}
+                {% assign child_dir = child_dir_parts | join: "/" %}
+                {% if child_dir == dir %}
+                  <li>
+                    📄 <a href="{{ child.url }}" {% if page.url == child.url %}style="font-weight:bold"{% endif %}>
+                      {{ child.title }}
+                    </a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </li>
+        {% else %}
+          <li>
+            📄 <a href="{{ doc.url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>
+              {{ doc.title }}
+            </a>
+          </li>
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
   </ul>
 
   <!-- Docs -->
   <h3>Documentazione</h3>
   <ul>
-    {% assign docs = site.docs | sort: "order" %}
-    {% for doc in docs %}
+    {% assign docs_paths = site.docs | sort: "order" %}
+    {% for doc in docs_paths %}
       <li>
-        <a href="{{ doc.url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>
+        📄 <a href="{{ doc.url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>
           {{ doc.title }}
         </a>
       </li>
