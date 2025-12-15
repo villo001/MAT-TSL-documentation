@@ -1,7 +1,7 @@
 ---
 title: To be defined
 order: 40
-layout: doc
+layout: page
 status: draft
 version: 0.1
 ---

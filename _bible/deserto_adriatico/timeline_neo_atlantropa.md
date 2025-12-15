@@ -1,7 +1,7 @@
 ---
 title: Timeline Neo Atlantropa
 order: 30
-layout: doc
+layout: page
 status: draft
 version: 0.0.1
 id: timelineneoatlantropa

@@ -1,7 +1,7 @@
 ---
 title: Deserto Adriatico
 order: 10
-layout: doc
+layout: page
 status: draft
 version: 0.0.1
 id: desertoadriatico

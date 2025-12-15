@@ -1,7 +1,7 @@
 ---
 title: La nostra visione
 order: 1	# subito dopo Home
-layout: doc
+layout: page
 status: draft
 version: 0.0.1
 id: gamevision
