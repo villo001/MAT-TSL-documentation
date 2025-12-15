@@ -5,6 +5,15 @@
     <li>🏠 <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}style="font-weight:bold"{% endif %}>Home</a></li>
   </ul>
 
+  <!-- Docs subito dopo Home -->
+  <h3>Documentazione</h3>
+  <ul>
+    {% assign docs_sorted = site.docs | sort: "order" %}
+    {% for doc in docs_sorted %}
+      <li>📄 <a href="{{ doc.url | relative_url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}
+  </ul>
+
   <!-- Bible -->
   <h3>Bible</h3>
   <ul>
@@ -13,7 +22,7 @@
 
     {% for doc in bible_docs %}
       {% assign parts = doc.path | split:"/" %}
-      {% assign dir_parts = parts | slice: 1, parts.size | slice: 0, parts.size-1 %}
+      {% assign dir_parts = parts | slice: 1, parts.size | slice:0, parts.size-1 %}
       {% assign dir = dir_parts | join:"/" %}
 
       {% if dir == "" %}
@@ -27,7 +36,7 @@
             <ul>
               {% for child in bible_docs %}
                 {% assign child_parts = child.path | split:"/" %}
-                {% assign child_dir_parts = child_parts | slice: 1, child_parts.size | slice:0, child_parts.size-1 %}
+                {% assign child_dir_parts = child_parts | slice:1, child_parts.size | slice:0, child_parts.size-1 %}
                 {% assign child_dir = child_dir_parts | join:"/" %}
                 {% if child_dir == dir %}
                   <li>📄 <a href="{{ child.url | relative_url }}" {% if page.url == child.url %}style="font-weight:bold"{% endif %}>{{ child.title }}</a></li>
@@ -38,15 +47,6 @@
         {% endunless %}
       {% endif %}
 
-    {% endfor %}
-  </ul>
-
-  <!-- Docs -->
-  <h3>Documentazione</h3>
-  <ul>
-    {% assign docs = site.docs | sort:"order" %}
-    {% for doc in docs %}
-      <li>📄 <a href="{{ doc.url | relative_url }}" {% if page.url == doc.url %}style="font-weight:bold"{% endif %}>{{ doc.title }}</a></li>
     {% endfor %}
   </ul>
 

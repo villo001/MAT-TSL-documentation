@@ -1,6 +1,6 @@
 ---
 title: La nostra visione
-order: 10
+order: 1	# subito dopo Home
 layout: doc
 status: draft
 version: 0.0.1
