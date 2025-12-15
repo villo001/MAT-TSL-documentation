@@ -1,6 +1,8 @@
 ---
-title: Licenza della documentazione
+title: LICENSE
 layout: default
+status: stable
+version: 1.0
 ---
 Creative Commons Legal Code
 

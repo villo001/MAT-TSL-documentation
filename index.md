@@ -1,6 +1,9 @@
 ---
-title: Indice
-layout: default
+title: MAT-TSL Documentation
+layout: doc
+order: 0
+status: draft
+version: 0.0.1
 ---
 # Un gioco di ruolo post apocalittico ambientato in Italia
 
