@@ -275,7 +275,7 @@ Nelle immagini all'interno dei giochi il mare Mediterraneo sembra totalmente pro
 
 [Fonte: carta geografica](https://i.imgur.com/UeEpx6y.png)
 
-[Fonte: proiezioni mappamondo](https://static.wikia.nocookie.net/fallout/images/e/e2/PlayerHouse_Globe01.png/revision/latest/scale-to-width-down/1000?cb=20171003190014)
+[Fonte: proiezioni mappamondo](https://static.wikia.nocookie.net/fallout/images/e/e2/PlayerHouse_Globe01.png)
 
 Ci sono [discussioni su Reddit](https://www.reddit.com/r/falloutlore/comments/1aosxs2/is_the_world_map_shown_in_fallout_4_really/) riguardo questo fatto.
 
@@ -285,7 +285,7 @@ L'idea di prosciugare il mare Mediterraneo è stata proposta realmente nella pri
 #### Neo Atlantropa
 Ora è semplice immaginare un progetto della Comunità Europea che riprenda Atlantropa perché con il fallimento delle Guerre delle Risorse con c'erano altre chances: implementare il progetto per poterlo sfruttare principalmente a fini di produzione di energia idroelettrica su scala continentale.
 
-Questo progetto, Neo Atlantropa, è stato l'ultimo scatto disperato prima della fine.
+Questo progetto, [Neo Atlantropa](/worldbuilding/neo-atlantropa/), è stato l'ultimo scatto disperato prima della fine.
 
 ---
 
@@ -526,14 +526,14 @@ O un porcospino da 200 Kg che ha acquisito la possibilità di lanciare gli acule
 
 Microorganismi mutati, li abbiamo appena itrodotti e cosa facciamo, non li usiamo?
 
-## 4.5 Ma almeno i vault ce li mettiamo?
+### 4.5 Ma almeno i vault ce li mettiamo?
 No. Non ci servono e non c'è spazio nella nostra linea di lore per una azienda civile che li produce.
 
 Ci saranno stati sicuramente bunker militari di tutti i tipi, dove saranno stati accolti e avranno trovato rifugio anche le elite finanziarie e politiche ma la loro fuzione sarà diversa, e francamente in un setting europeo che finisce per assomigliare tantissimo al medioevo e all'età comunale non abbiamo bisogno di una azienda del compalesso militare-industriale per creare dei villain adeguati.
 
 Diamo però atto che abbiamo sicuramente bisogno di un tratto veramente distintivo del nostro setting che lo differenzi dalla Saga originale senza andare contro alla lore ufficiale, una chicca finale.
 
-## 4.6 La chicca finale
+### 4.6 La chicca finale
 È apparsa subito quando ho iniziato a pensare a fazioni credibili per il nostro setting, non ho neppure avuto bisogno di un brainstorming con l'IA.
 
 Abbiamo un deserto di dune, con un clima inospitale, nel quale si può trovare una risorsa fondamentale per le persone che viene raccolta da gruppi di persone che non ci vivono, e ci entrano solo per la raccolta.

@@ -1,3 +1,7 @@
+---
+title: Neo Atlantropa
+permalink: /worldbuilding/neo-atlantropa/
+---
 # Documento di sintesi - Progetto Neo Atlantropa
 *Progetto di ingegneria geo-politica che ha cambiato il Mediterraneo*
 
