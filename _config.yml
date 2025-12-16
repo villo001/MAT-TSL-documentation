@@ -1,0 +1,7 @@
+title: Mediterranean Atomic Tales - The Sunken Land
+description: Documentazione ufficiale del progetto MAT:TSL
+
+baseurl: "/MAT-TSL-documentation"
+markdown: kramdown
+theme: minima
+permalink: pretty

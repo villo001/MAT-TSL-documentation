@@ -1,3 +1,6 @@
+---
+title: La nostra visione
+---
 # Mediterranean Atomic Tales: The Sunken Lands
 
 Mediterranean Atomic Tales: The Sunkenl Lands (da ora in poi, **_MAT:TSL_**) praticamente è una dichiarazione d'amore per una Saga videoludica molto famosa, ambientata in un futuro distopico post-apocalittico dopo la _Gguerra Sinoamericana_ culminata con la caduta delle testate termonucleari nel 2077 e dal quale è stata anche tratta una serie TV di grande successo..

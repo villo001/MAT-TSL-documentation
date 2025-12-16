@@ -1,3 +1,6 @@
+---
+title: Mediterraneal Atomic Tales: The Sunken Lands
+---
 # Un gioco di ruolo post apocalittico ambientato in Italia
 
 ## La guerra sinoamericana del 2077
