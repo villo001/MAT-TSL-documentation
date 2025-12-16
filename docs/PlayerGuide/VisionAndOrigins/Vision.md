@@ -426,7 +426,7 @@ Ovviamente la scoperta è da subito un segreto industriale e militare, viste le 
 Attribuendo poche caratteristiche di questi organismi si costruisce un sistema complesso e articolato:
 
 - si attivano e producono elettricità se esposti al sole
-- si possono coltivare facilmente ed economicamente negli ambienti delDeserto Adriatico
+- si possono coltivare facilmente ed economicamente negli ambienti del Deserto Adriatico
 - si possono raccogliere facilmente dalle colonie spontanee che si sono formate nel deserto adriatico
 - presupponendo molti ceppi di microorganismi solo uno dei quali bioelettrico, l'efficienza dei sistemi aumenta con l'aumentare della _purezza_ dei microorganismi usati
 
