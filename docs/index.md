@@ -21,12 +21,12 @@ Ma Milano, Roma e Napoli non sono l'Italia, nel resto del belpaese cosa è succe
 
 Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend Land__, un progetto nel quale puoi esplorare tutto quello che concerne l'Italia dalla _Guerra delle Risorse_ in poi.
 
-# Leggi [La nostra visione del gioco](/MAT-TSL-documentation/PlayerGuide/VisionAndOrigins/Vision.html)
+# Leggi [La nostra visione del gioco](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html)
 
 ---
 
 Scorri la guida per scoprire:
-- [Origini delle Idee](/MAT-TSL-documentation/lPayeruide/visionandorigins/origins.html)  
+- [Origini delle Idee](/MAT-TSL-documentation/playerguide/visionandorigins/origins.html)  
 - [Guida al gameplay](/MAT-TSL-documentation/playerguide/gettingstarted.html)
 
 ---

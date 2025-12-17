@@ -56,7 +56,7 @@ Le potenze europee investirono risorse enormi nel progetto per affrontare:
 - l’esigenza di stabilità energetica prima del 2077.
 
 ## 4. Cronologia di Neo Atlantropa
-La timeline che segue è schematica indicando i periodi chiave dello sviluppo dell’iniziativa, è disponibile comunque una [timeline dettagliata](https://villo001.github.io/MAT-TSL-documentation/Bible/Deserto_Adriatico/Timeline_Neo_Atlantropa).
+La timeline che segue è schematica indicando i periodi chiave dello sviluppo dell’iniziativa, è disponibile comunque una [timeline dettagliata](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa.html).
 
 ### 2000–2025: Preludio e Studi Iniziali
 - l’escalation delle Guerre delle Risorse spinge la Comunità Europea a finanziare grandi progetti ingegneristici;

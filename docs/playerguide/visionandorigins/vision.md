@@ -288,7 +288,7 @@ L'idea di prosciugare il mare Mediterraneo è stata proposta realmente nella pri
 #### Neo Atlantropa
 Ora è semplice immaginare un progetto della Comunità Europea che riprenda Atlantropa perché con il fallimento delle Guerre delle Risorse con c'erano altre chances: implementare il progetto per poterlo sfruttare principalmente a fini di produzione di energia idroelettrica su scala continentale.
 
-Questo progetto, [Neo Atlantropa](https://villo001.github.io/MAT-TSL-documentation/GameBible/WorldBuilding/NeoAtlantropa/Neo_Atlantropa.html), è stato l'ultimo scatto disperato prima della fine.
+Questo progetto, [Neo Atlantropa](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa.html), è stato l'ultimo scatto disperato prima della fine.
 
 ---
 
