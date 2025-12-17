@@ -1,7 +1,7 @@
 ---
-title: Combattimento
+title: Sistema diCombattimento
 ---
-# Combattimento
+# Sistema di Combattimento
 
 - Tipi di armi
 - Modalità di combattimento

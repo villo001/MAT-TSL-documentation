@@ -1,90 +1,113 @@
 # MAT-TSL-documentation
 
-Documentation for MAT:TSL
+Documentazione for MAT:TSL
 
-Documentation license is in file LICENSE.md
+La licenza della documentazione è nel file LICENSE.md
 
-# Documentatio structure
+# Struttura della documentazione
 
 ```
 docs/
-│
-├── PlayerGuide/                   # Guida per i giocatori
-│   ├── index.md                   # Introduzione generale alla guida
-│   ├── GettingStarted.md          # Come iniziare il gioco
-│   ├── Controls.md                # Comandi (mouse, tastiera, controller)
-│   ├── Combat.md                  # Sistema di combattimento
-│   ├── SkillsAndPerks.md          # Abilità, perk, livelli
-│   ├── ItemsAndInventory.md       # Armi, armature, oggetti, crafting
-│   ├── Quests.md                  # Tipologie di quest e meccaniche
-│   ├── WorldMap.md                # Mappe e luoghi principali
-│   ├── Factions.md                # Descrizione fazioni presenti
-│   ├── Bestiary.md                # Nemici e creature
-│   └── TipsAndTricks.md           # Consigli e strategie
-│
-├── GameBible/                      # Documentazione interna lore/setting
-│   ├── index.md                   # Introduzione alla game bible
-│   ├── WorldBuilding/             # Mondo e ambientazione
-│   │   ├── Geography.md           # Geografia, mappe, biomi
-│   │   ├── HistoryTimeline.md     # Timeline storica
-│   │   ├── Politics.md            # Politica e fazioni
-│   │   ├── CultureAndSociety.md  # Cultura, religione, società
-│   │   └── Technology.md          # Tecnologie e macchine
-│   ├── Characters/                # Personaggi principali
-│   │   ├── Protagonist.md
-│   │   ├── NPCs.md
-│   │   └── FactionLeaders.md
-│   ├── Factions/                  # Fazioni dettagliate
-│   │   ├── FactionName1.md
-│   │   └── FactionName2.md
-│   └── LoreNotes.md               # Appunti minori, retroscena, easter eggs
-│
-├── DesignDocs/                     # Documentazione tecnica e design
-│   ├── index.md
-│   ├── GameDesign/                # Design del gameplay
-│   │   ├── CoreMechanics.md       # Movimento, combattimento, crafting
-│   │   ├── LevelDesign.md         # Livelli, mappe, pacing
-│   │   ├── AI.md                  # Intelligenza artificiale
-│   │   ├── QuestSystem.md         # Sistema di quest
-│   │   ├── Economy.md             # Sistema economico, loot, crafting
-│   │   └── UIUX.md                # Interfaccia utente e UX
-│   ├── Technical/                 # Specifiche tecniche
-│   │   ├── Engine.md              # Motore di gioco, versioni, pipeline
-│   │   ├── Rendering.md           # Grafica e shader
-│   │   ├── Audio.md               # Sound design e implementazione audio
-│   │   ├── Networking.md          # Multiplayer o leaderboard se presenti
-│   │   └── Tools.md               # Tool interni, editor, pipeline asset
-│   ├── Scripts/                   # Scripts, blueprint, pseudocodice
-│   │   └── ScriptIndex.md
-│   └── Assets/                    # Lista asset e note su utilizzo
-│       ├── Characters.md
-│       ├── Props.md
-│       ├── Environment.md
-│       └── Effects.md
-│
-├── Production/                     # Documentazione di produzione
-│   ├── index.md
-│   ├── ProjectPlan.md             # Timeline sviluppo, milestone
-│   ├── TaskTracking.md            # Gestione task e team
-│   ├── QA/                        # Quality assurance
-│   │   ├── TestingProcedures.md
-│   │   ├── BugTracking.md
-│   │   └── PlaytestingReports.md
-│   ├── BuildNotes.md              # Note su build, deploy, packaging
-│   └── Changelog.md               # Aggiornamenti principali
-│
-└── References/                     # Materiale di riferimento
-    ├── Books.md
-    ├── Games.md
-    ├── Articles.md
-    └── MediaAssets.md
+├── complete_index.md
+├── designdocs
+│   ├── assets
+│   │   ├── characters.md
+│   │   ├── effects.md
+│   │   ├── environment.md
+│   │   ├── index.md
+│   │   └── props.md
+│   ├── gamedesign
+│   │   ├── ai.md
+│   │   ├── coremechanics.md
+│   │   ├── economy.md
+│   │   ├── index.md
+│   │   ├── leveldesign.md
+│   │   ├── questsystem.md
+│   │   └── uiux.md
+│   ├── index.md
+│   ├── scripts
+│   │   └── index.md
+│   └── technical
+│       ├── audio.md
+│       ├── engine.md
+│       ├── index.md
+│       ├── networking.md
+│       ├── rendering.md
+│       └── tools.md
+├── gamebible
+│   ├── characters
+│   │   ├── factionleaders.md
+│   │   ├── index.md
+│   │   ├── npcs.md
+│   │   └── protagonist.md
+│   ├── factions
+│   │   ├── factionname1.md
+│   │   ├── factionname2.md
+│   │   └── index.md
+│   ├── index.md
+│   ├── lorenotes.md
+│   └── worldbuilding
+│       ├── adriaticdesert
+│       │   ├── adriatic_desert.md
+│       │   └── index.md
+│       ├── cultureandsociety.md
+│       ├── geography.md
+│       ├── history
+│       │   ├── index.md
+│       │   └── neo_atlantropa_timeline.md
+│       ├── historytimeline.md
+│       ├── index.md
+│       ├── neoatlantropa
+│       │   ├── index.md
+│       │   ├── neo_atlantropa_cause_effects.md
+│       │   └── neo_atlantropa.md
+│       ├── politics.md
+│       └── technology.md
+├── index.md
+├── playerguide
+│   ├── bestiary.md
+│   ├── combat.md
+│   ├── factions.md
+│   ├── gettingstarted.md
+│   ├── index.md
+│   ├── itemsandinventory.md
+│   ├── quests.md
+│   ├── skillsandperks.md
+│   ├── tipsandtricks.md
+│   ├── visionandorigins
+│   │   ├── index.md
+│   │   ├── origins.md
+│   │   └── vision.md
+│   └── worldmap.md
+├── production
+│   ├── buildnotes.md
+│   ├── changelog.md
+│   ├── index.md
+│   ├── projectplan.md
+│   ├── qa
+│   │   ├── bugtracking.md
+│   │   ├── index.md
+│   │   ├── playtestingreports.md
+│   │   └── testingprocedures.md
+│   └── tasktracking.md
+├── references
+│   ├── articles.md
+│   ├── books.md
+│   ├── games.md
+│   ├── index.md
+│   └── mediaassets.md
+└── templates
+    ├── index.md
+    ├── skeleton_documentazione.md
+    ├── timeline_schematica.md
+    └── to_be_defined.md
 ```
 
 Note sulla struttura
 
-- PlayerGuide -> Per giocatori finali, scritta in linguaggio semplice
-- GameBible -> Fondamentale per coerenza narrativa, ogni NPC, luogo o evento deve avere una scheda
-- DesignDocs -> Dettagli sul gameplay, sistemi, meccaniche e asset; utile a designer e programmatori
-- Production -> Gestione progetto, QA, build e tracking
-- References -> Materiale di ispirazione e fonti
+- playerguide -> Per giocatori finali, scritta in linguaggio semplice
+- gamebible -> Fondamentale per coerenza narrativa, ogni NPC, luogo o evento deve avere una scheda
+- designdocs -> Dettagli sul gameplay, sistemi, meccaniche e asset; utile a designer e programmatori
+- production -> Gestione progetto, QA, build e tracking
+- references -> Materiale di ispirazione e fonti
 

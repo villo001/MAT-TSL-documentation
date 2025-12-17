@@ -26,9 +26,16 @@ Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend
 ---
 
 Scorri la guida per scoprire:
-- [Origini delle Idee](PlayerGuide/VisionAndOrigins/Origins.md)  
-- [Guida al gameplay](PlayerGuide/GettingStarted.md)
+- [Origini delle Idee](/MAT-TSL-documentation/lPayeruide/visionandorigins/origins.html)  
+- [Guida al gameplay](/MAT-TSL-documentation/playerguide/gettingstarted.html)
 
-- [La licenza della documentazione](LICENSE.md)
-- [Il README generale del progetto](REASME.md)
+---
 
+# Sezioni principali
+- [Documenti di Design](/MAT-TSL-documentation/designdocs/index.html)
+- [Game Bible](/MAT-TSL-documentation/gamebible/index.html)
+- [Guida del Giocatore](/MAT-TSL-documentation/playerguide/index.html)
+
+---
+
+- [Indice Completo](/MAT-TSL-documentation/complete_index.html)

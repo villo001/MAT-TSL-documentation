@@ -2,20 +2,12 @@
 title: Guida al Gioco
 ---
 # Guida al Gioco
-
 Benvenuto nella guida ufficiale del gioco. Qui troverai tutte le informazioni necessarie per iniziare, esplorare il mondo e sopravvivere.
 
-## Contenuti
-- [Introduzione](GettingStarted.md)
-- [Controlli](Controls.md)
-- [Combattimento](Combat.md)
-- [Abilità e Perk](SkillsAndPerks.md)
-- [Oggetti e Inventario](ItemsAndInventory.md)
-- [Quest](Quests.md)
-- [Mappa del Mondo](WorldMap.md)
-- [Fazioni](Factions.md)
-- [Creature](Bestiary.md)
-- [Consigli](TipsAndTricks.md)
-- [Visione del Gioco](VisionAndOrigins/Vision.md)
-- [Origini delle Idee](VisionAndOrigins/Origins.md)
+# Sezioni
+- [Getting Started](/MAT-TSL-documentation/playerguide/gettingstarted.html)
+- [Combattimento](/MAT-TSL-documentation/playerguide/combat.html)
+- [Fazioni](/MAT-TSL-documentation/playerguide/factions.html)
+- [Bestiario](/MAT-TSL-documentation/playerguide/bestiary.html)
+- [Visione del Gioco](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html)
 
