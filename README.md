@@ -124,5 +124,5 @@ Under the following terms:
 
 Full license text: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-For a local copy see local file [LICENSE](https://github.com/villo001/MAT-TSL-documentation/blob/main/LICENSE])
+For a local copy see local file LICENSE.
 

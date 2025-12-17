@@ -22,7 +22,7 @@ __Creative Commons Attribution-NonCommercial-ShareAlike 4.0__
 - Favorisce collaborazione
 - È standard nei progetti creativi
 
-File [LICENSE](https://github.com/villo001/MAT-TSL-documentation/blob/main/LICENSE] nel repository [MAT-TSL-documentation](https://github.com/villo001/MAT-TSL-documentation)
+File LICENSE nel repository [MAT-TSL-documentation](https://github.com/villo001/MAT-TSL-documentation)
 
 ---
 
