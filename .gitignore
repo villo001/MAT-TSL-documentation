@@ -3,6 +3,7 @@ tmp/
 *.swp
 *.bck
 *.backup
+*.log
 orig_*
 qqq
 qq1
