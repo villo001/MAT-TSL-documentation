@@ -18,7 +18,7 @@ Questo documento contiene **tutti i link** alla documentazione di *Mediterranean
     - [Level Design](/MAT-TSL-documentation/designdocs/gamedesign/leveldesign.html)
     - [Quest](/MAT-TSL-documentation/designdocs/gamedesign/questsystem.html)
     - [UI/UX](/MAT-TSL-documentation/designdocs/gamedesign/uiux.html)
-  - [Script](/MAT-TSL-documentation/designdocs/scripts/scriptindex.html)
+  - [Script](/MAT-TSL-documentation/designdocs/scripts/index.html)
   - [Technicalia](/MAT-TSL-documentation/designdocs/technical/index.html)
     - [Audio](/MAT-TSL-documentation/designdocs/technical/audio.html)
     - [Game Engine](/MAT-TSL-documentation/designdocs/technical/engine.html)

@@ -136,7 +136,7 @@ Di seguito una timeline schematica canonica di quello che è successo durante le
 - Due ore di conflitto.
 - Fine del mondo prebellico.
 
-Una timeline dettagliata canonica del periodo la puoi trovare [qui](docs/timeline_schematica.md).
+Una timeline dettagliata canonica del periodo la puoi trovare [qui](/MAT-TSL-documentation/templates/timeline_schematica.html).
 
 ---
 
