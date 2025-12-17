@@ -1,21 +1,17 @@
+# PR Template - Documentazione MAT:TSL
+
 ## Descrizione
-Descrivi brevemente cosa introduce questa PR.
+Breve descrizione della modifica/documento aggiunto.
 
-## Tipo di cambiamento
-- [ ] Correzione
-- [ ] Nuovo contenuto
-- [ ] Refactor
-- [ ] Miglioramento documentazione
-- [ ] Altro
+## Checklist
+- [ ] Tutti i link funzionano
+- [ ] Front matter corretto (titolo, permalink, layout)
+- [ ] Indice completo aggiornato (`complete_index.md`)
+- [ ] Build Jekyll locale senza errori
+- [ ] Revisione contenuto e grammatica
+- [ ] Aggiornamento immagini, se necessario
+- [ ] Commit chiari e concisi
 
-## File modificati
-Elenco dei file principali coinvolti.
-
-## Coerenza
-- [ ] La modifica è coerente con la lore esistente
-- [ ] Non introduce contraddizioni
-- [ ] Segue la struttura del progetto
-
-## Note aggiuntive
-Eventuali considerazioni, dubbi o richieste di feedback.
+## Sezione / Capitolo
+Indicare a quale sezione della documentazione appartiene la PR (es. `GameBible/WorldBuilding/NeoAtlantropa`).
 
