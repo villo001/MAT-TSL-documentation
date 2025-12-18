@@ -1,9 +1,9 @@
 ---
 title: Template - Timeline Schematica
 ---
-# Mediterranean Atomic Tales: The Sunken Lands
+# Mediterranean Atomic Tales: The Sunken Land
 
-Di seguito una timeline dettagliata canonica di quello che è successo durante la Guerra delle Risorse.
+Di seguito una timeline dettagliata canonica di quello che è successo durante i Conflitti Energetici.
 
 ## 2050-2060: Origini
 - 2050-2052: Riserve di petrolio quasi esaurite.
@@ -26,10 +26,10 @@ Di seguito una timeline dettagliata canonica di quello che è successo durante l
 - 2076: Annessione forzata del Canada.
 
 ## 2076-2077: Collasso finale
-    Gennaio 2077: USA riconquistano definitivamente l’Alaska.
-    Ottobre 2077: Situazione geopolitica insostenibile.
+- Gennaio 2077: USA riconquistano definitivamente l’Alaska.
+- Ottobre 2077: Situazione geopolitica insostenibile.
 
-## 23 ottobre 2077: La Grande Guerra
+## 23 ottobre 2077: La Terza Guerra Mondiale
 - La più grossa azienda del complesso [militare-industriale](https://it.wikipedia.org/wiki/Complesso_militare-industriale) degli USA per motivi interni lancia la prima testata nucleare sulla Cina provocando la sua reazione.
 - Lancio incrociato di testate nucleari.
 - Due ore di conflitto.

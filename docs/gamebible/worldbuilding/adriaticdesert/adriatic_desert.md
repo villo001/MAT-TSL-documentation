@@ -9,7 +9,7 @@ title: Il Deserto Adriatico
 ---
 
 # 1. Introduzione
-Il **Deserto Adriatico** (ormai chiamato colloquialmente **Erg**, recuperando un antico termine prebellico) è l'immensa distesa arida che occupa l’ex bacino del Mare Adriatico, prosciugato nel corso del XXI secolo a causa di progetti geo-ingegneristici ambiziosi, cambiamenti climatici e infine dagli sconvolgimenti ambientali successivi alla **Grande Guerra del 2077**.
+Il **Deserto Adriatico** (ormai chiamato colloquialmente **Erg**, recuperando un antico termine prebellico) è l'immensa distesa arida che occupa l’ex bacino del Mare Adriatico, prosciugato nel corso del XXI secolo a causa di progetti geo-ingegneristici ambiziosi, cambiamenti climatici e infine dagli sconvolgimenti ambientali successivi alla **Terza Guerra Mondiale del 2077**.
 
 Nel 2287 il Deserto Adriatico è una delle regioni più inospitali d’Europa: un bacino ribassato, torride temperature che superano spesso i 50–60 °C, tempeste di sabbia disidratante e abrasiva, antichi fondali marini trasformati in un deserto di dune mobili e piane aride e la presenza sporadica di insediamenti umani, per lo più concentrati sulle antiche isole, nelle località prebelliche dell'antica linea di costa e attorno a quelle che erano le vecchie piattaforme off-shore di estrazione del metano.
 
@@ -20,13 +20,13 @@ Il presente documento fornisce una ricostruzione completa della formazione, geol
 # 2. Origini del Prosciugamento dell’Adriatico (2010–2077)
 
 ## 2.1. Le radici del progetto: Atlantropa
-Le basi teoriche del prosciugamento dell’Adriatico affondano nel progetto geopolitico europeo della prima parte XX secolo noto come **Atlantropa**, concepito dall’architetto tedesco Herman Sörgel. [(Fonte)](https://it.wikipedia.org/wiki/Atlantropa).
+Le basi teoriche del prosciugamento dell’Adriatico affondano nel progetto geopolitico europeo della prima metà del XX secolo noto come **Atlantropa**, concepito dall’architetto tedesco Herman Sörgel. [(Fonte)](https://it.wikipedia.org/wiki/Atlantropa).
 
 Questo progetto (inizialmente appoggiato dell'Italia fascista e dalla Germania nazista, poi abortito per l'opposizione della Società delle Nazioni) prevedeva la costruzione di dighe nello stretto di Gibilterra, fra la Sicilia e l'Africa, fra la Sicilia e la Calabria e sui Dardanelli per isolare e compartimentare il Mare Mediterraneo allo scopo di prosciugarlo per ottenere nuove terre da colonizzare e energia idroelettrica prodotta dalle centrali costruite alla base delle dighe.
 
 Nel XXI secolo, con la crescente crisi energetica e idrica globale, alcuni elementi utopistici di Atlantropa vengono reinterpretati in chiave utilitaristica da consorzi euro-mediterranei e neocorporazioni energetiche: nasce [Neo Atlantropa](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa.html), lo stesso progetto di Herman Sörgel però ripensato con le nuove tecnologie e preminentemente indirizzato alla produzione di energia idroelettrica su scala continentale per fare fronte alla scarsità di fonti energetiche fossili.
 
-## 2.2. Il “Nuovo Mediterraneo”: opere pre-Guerra delle Risorse
+## 2.2. Il “Nuovo Mediterraneo”: opere pre-Conflitti Energetici
 Tra il 2035 e il 2060 si sviluppano:
 - Mega-dighe sullo Stretto di Gibilterra (progetto Sörgel 2.0)
 - impianti di pompaggio per abbassare il livello del Mediterraneo
@@ -41,7 +41,7 @@ L’Adriatico, per la sua scarsa profondità nel settore centro settentrionale, 
 ## 2.3. Il ruolo delle corporazioni pre-belliche
 Neocorporazioni come l'italiana **EniNova**, la francese **Energie Nationale Méditerranéenne** e la yugoslava **EuroHydrotech** sperimentano nuovi impianti:
 - estrazione di minerali dal fondale
-- centrali solari e a Eliobionti (microorganismi mutati sfruttati come accumulatori energetici, esclusiva tecnico scientifica italiana del tardo periodo pre bellico)
+- centrali solari e a Eliobionti (microorganismi mutati sfruttati come accumulatori energetici, esclusiva tecnico-scientifica italiana del tardo periodo prebellico)
 - primi insediamenti su terre appena emerse
 
 Il Delta del Po diventa un centro sperimentale per:
@@ -54,7 +54,7 @@ Il Delta del Po diventa un centro sperimentale per:
 
 # 3. Il Prosciugamento Completo (2077–2100)
 
-## 3.1. La Grande Guerra e il collasso delle infrastrutture
+## 3.1. La Terza Guerra Mondiale e il collasso delle infrastrutture
 La caduta delle bombe nel 2077 provoca:
 - blackout totale delle dighe
 - crollo dei sistemi di pompaggio
@@ -62,7 +62,7 @@ La caduta delle bombe nel 2077 provoca:
 - piogge acide e perturbazioni estreme
 - dispersione di contaminanti nei fondali emersi
 
-Ma a causa della lunga opera preliminare di prosciugamento il bacino adriatico era già quasi interamente asciutto. E senza l'apporto delle acque atlantiche entranti dallo Stretto di Gibilterra (impedito dalle dighe) il suo destino e quello dell'interno bacino del Mediterraneo era segnato: con un meccanismo simile a quello della [Crisi di salinità del Messiniano](https://it.wikipedia.org/wiki/Crisi_di_salinit%C3%A0_del_Messiniano), accelerato dai cambiamenti climatici, tutto il bacino del Mediterraneo si prosciuga tranne nei punti più profondi, portando con se anche il Mare Adriatico.
+Ma a causa della lunga opera preliminare di prosciugamento, il bacino adriatico era già quasi interamente asciutto. E senza l'apporto delle acque atlantiche entranti dallo Stretto di Gibilterra (impedito dalle dighe) il suo destino e quello dell'interno bacino del Mediterraneo era segnato: con un meccanismo simile a quello della [Crisi di salinità del Messiniano](https://it.wikipedia.org/wiki/Crisi_di_salinit%C3%A0_del_Messiniano), accelerato dai cambiamenti climatici, tutto il bacino del Mediterraneo si prosciuga tranne nei punti più profondi, portando con sé anche il Mare Adriatico.
 
 ## 3.2. Gli ultimi anni di ritiro
 Tra il 2070 e il 2090:
@@ -97,7 +97,7 @@ hanno prodotto:
 - dune mobili alte fino a 3–5 metri
 - superfici sabbiose iper-polverizzate
 - depositi salini minori in zone isolate (ex Lagune e Fosse dalmate)
-- croste desertiche fragili, non “cementificate” per via del continuo disturbo umano pre-Grande Guerra
+- croste desertiche fragili, non “cementificate” per via del continuo disturbo umano pre-Terza Guerra Mondiale
 
 ---
 
@@ -234,5 +234,5 @@ Il commercio avviene fra le località dell'antica costa oppure fra la costa e le
 Il Deserto Adriatico del 2287 è un ambiente unico nell’universo di MAT:TSL:
 - nato da un’ambizione utopistica del XIX secolo recuperata nel XX secolo
 - prosciugato lentamente dal sogno spezzato di Neo Atlantropa
-- devastato dal collasso globale dopo la Grande Guerra
+- devastato dal collasso globale dopo la Terza Guerra Mondiale
 - trasformato in un bacino desertico ostile ma ricco di misteri, rovine e opportunità di gioco

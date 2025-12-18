@@ -1,9 +1,9 @@
 ---
 title: La nostra visione
 ---
-# Mediterranean Atomic Tales: The Sunken Lands
+# Mediterranean Atomic Tales: The Sunken Land
 
-Mediterranean Atomic Tales: The Sunkenl Lands (da ora in poi, **_MAT:TSL_**) praticamente è una dichiarazione d'amore per una Saga videoludica molto famosa, ambientata in un futuro distopico post-apocalittico dopo la _Gguerra Sinoamericana_ culminata con la caduta delle testate termonucleari nel 2077 e dal quale è stata anche tratta una serie TV di grande successo..
+Mediterranean Atomic Tales: The Sunken Land (da ora in poi, **_MAT:TSL_**) praticamente è una dichiarazione d'amore per una Saga videoludica molto famosa, ambientata in un futuro distopico post-apocalittico dopo la _Guerra Sinoamericana_ culminata con la caduta delle testate termonucleari nel 2077 e dalla quale è stata anche tratta una serie TV di grande successo.
 
 Ed è anche una dichiarazione d'amore per il quarto capitolo della Saga (inaspettatamente), per le sue meccaniche di gioco, per la sua componente action e per la progressione del personaggio che ne fanno un capitolo molto intuitivo e coinvolgente da giocare.
 
@@ -17,13 +17,13 @@ E soprattutto ci piacerebbe immaginare che l'Italia _se la sia cavata_, tutto so
 
 Quindi, cosa è successo?
 
-Ricordiamoci i punti salienti della timeline della Saga partendo dalle _Guerre delle Risorse_, che secondo la lore dei giochi hanno impattato pesantemente sull'Unione Europea.
+Ricordiamoci i punti salienti della timeline della Saga partendo dai _Conflitti Energetici_, che secondo la lore dei giochi hanno impattato pesantemente sull'Unione Europea.
 
 ---
 
-# Le Guerre delle Risorse – Riassunto
+# I Conflitti Energetici – Riassunto
 
-Le _Guerra delle Risorse_ sono la lunga crisi geopolitica ed energetica che caratterizza il mondo di della Saga tra il 2050 e il 2077, culminando nella _Grande Guerra_ del 23 ottobre 2077.
+I _Conflitti Energetici_ sono la lunga crisi geopolitica ed energetica che caratterizza il mondo di della Saga tra il 2050 e il 2077, culminando nella _Terza Guerra Mondiale_ del 23 ottobre 2077.
 
 ## 1. Origini della Crisi (2050–2060)
 Nella Saga i punti fermi di partenza sono
@@ -93,7 +93,7 @@ Ulteriormente specifico del Nord America, ma in Italia?
 
 ---
 
-## 6. Conclusione: La Grande Guerra (23 ottobre 2077)
+## 6. Conclusione: La Terza Guerra Mondiale (23 ottobre 2077)
 - Lancio reciproco di armi nucleari.
 - Il conflitto dura circa due ore.
 - Fine della civiltà e inizio dell’era post-apocalittica della Saga videoludica.
@@ -104,7 +104,7 @@ Più nordamericano di così si muore, ma in Italia?
 
 ## 7. Timeline della Saga
 
-Di seguito una timeline schematica canonica di quello che è successo durante le _Guerre delle Risorse_.
+Di seguito una timeline schematica canonica di quello che è successo durante i _Conflitti Energetici_.
 
 ### 2050-2060: Origini
 - 2050-2052: Riserve di petrolio quasi esaurite.
@@ -130,7 +130,7 @@ Di seguito una timeline schematica canonica di quello che è successo durante le
     Gennaio 2077: USA riconquistano definitivamente l’Alaska.
     Ottobre 2077: Situazione geopolitica insostenibile.
 
-### 23 ottobre 2077: La Grande Guerra
+### 23 ottobre 2077: La Terza Guerra Mondiale
 - La più grossa azienda del complesso [militare-industriale](https://it.wikipedia.org/wiki/Complesso_militare-industriale) degli USA per motivi interni lancia la prima testata nucleare sulla Cina provocando la sua reazione.
 - Lancio incrociato di testate nucleari.
 - Due ore di conflitto.
@@ -144,14 +144,14 @@ Una timeline dettagliata canonica del periodo la puoi trovare [qui](/MAT-TSL-doc
 Vediamo di riassumere a grandi linee una possibile situazione geopolitica.
 
 ## 1. Stati Uniti
-- Paese più avanzato militarmente e tecnologicamente (tecnologia a microfusione)
+- Paese più avanzato militarmente e tecnologicamente (tecnologia a fusione avanzata miniaturizzata)
 - Crisi economica moderata grazie alla scoperta dei giacimenti in Alaska.
 - Rapida militarizzazione di tutto il paese.
 - Sviluppo di armature avanzate e armi energetiche.
 - Annessione forzata del Canada (2076).
 - Relazioni deteriorate con Europa e Cina.
 - Si consideravano i *difensori dell’ordine mondiale*, ma contribuiranno all’escalation che porterà al 2077.
-- La maggiore azienda del suo complesso militare-industriale da il via alla Grande Guerra lanciando la prima testata termonucleare.
+- La maggiore azienda del suo complesso militare-industriale da il via alla Terza Guerra Mondiale lanciando la prima testata termonucleare.
 
 ## 2. Cina
 - Economia fortemente dipendente dalle importazioni di petrolio.
@@ -180,37 +180,37 @@ Dobbiamo per forza immaginare ed estrapolare, e se si immagina e si estrapola si
 
 Ed è esattamente quello che vogliamo fare, immaginare che l'Italia tutto sommato _se la sia cavata_ (e anche bene!) grazie al nostro ingegno e alla nostra fortuna.
 
-Soprattutto durante tutto il periodo delle _Guerre delle Risorse_ fino al 2077 (ma anche dopo!).
+Soprattutto durante tutto il periodo dei _Conflitti Energetici_, fino al 2077 (ma anche dopo!).
 
 Iniziamo ad estrapolare e immaginare.
 
 ## 1. Situazione prebellica: la Comunità Europea/European Commonwealth
-Secondo quello che si trova online nell’universo della Saga prima della Grande Guerra gran parte dell’Europa era unita in un organismo politico noto come Comunità Europea (_European Commonwealth_ in inglese), una federazione di stati europei che includeva molti paesi del continente e probabilmente anche l’Italia (anche se la lista esatta degli Stati membri non è completamente ufficiale, ma tra quelli menzionati sulle wiki compare l’Italia tra gli stati europei prebellici).
+Secondo quello che si trova online nell’universo della Saga prima della Terza Guerra Mondiale gran parte dell’Europa era unita in un organismo politico noto come Comunità Europea (_European Commonwealth_ in inglese), una federazione di stati europei che includeva molti paesi del continente e probabilmente anche l’Italia (anche se la lista esatta degli Stati membri non è completamente ufficiale, ma tra quelli menzionati sulle wiki compare l’Italia tra gli stati europei prebellici).
 
-Questa entità si formò in risposta alla dipendenza europea dalle importazioni di petrolio e alla crescente crisi energetica che la portò a intervenire militarmente nei conflitti per le risorse (le Guerre delle Risorse). [Fonte](https://fallout.fandom.com/wiki/European_Commonwealth)
+Questa entità si formò in risposta alla dipendenza europea dalle importazioni di petrolio e alla crescente crisi energetica che la portò a intervenire militarmente nei conflitti per le risorse (i Conflitti Energetici).
 
-### 1.1 Le Guerre delle Risorse e l’Europa
-Le Guerre delle Risorse (_Resource Wars_ in inglese) furono una serie di conflitti globali (2052–2077) in cui si lottò per petrolio, uranio e altre risorse critiche. [Fonte](https://fallout.wiki/wiki/Resource_Wars)
+### 1.1 I Conflitti Energetici e l’Europa
+I Conflitti Energetici (_Resource Wars_ in inglese) furono una serie di conflitti globali (2052–2077) in cui si lottò per petrolio, uranio e altre risorse critiche.
 
-All’inizio di queste guerre, la Comunità Europea invase stati del Medio Oriente per assicurarsi gli idrocarburi dando così il via a scontri ampi e prolungati che coinvolsero anche scambi nucleari di piccola scala. [Fonte](https://fallout.fandom.com/it/wiki/Comunit%C3%A0_Europea)
+All’inizio di queste guerre, la Comunità Europea invase stati del Medio Oriente per assicurarsi gli idrocarburi dando così il via a scontri ampi e prolungati che coinvolsero anche scambi nucleari di piccola scala.
 
-Nel 2060, con l'esaurirsi delle risorse in Medio Oriente, la Comunità si dissolse e le nazioni europee tornarono a competere tra loro per il controllo delle poche risorse rimaste. [Fonte](https://fallout.fandom.com/it/wiki/Storia_prebellica)
+Nel 2060, con l'esaurirsi delle risorse in Medio Oriente, la Comunità si dissolse e le nazioni europee tornarono a competere tra loro per il controllo delle poche risorse rimaste.
 
-In questo contesto l’Italia, in quanto parte del territorio europeo, avrebbe fatto parte di questi eventi ma non vengono date descrizioni dettagliate specifiche su battaglie o governi italiani nei testi ufficiali canonici. La lore ufficiale tende a raccontare questi eventi a livello macroscopico (Europa nel suo insieme) più che a livello dei singoli Stati nazionali. [Fonte](https://fallout.fandom.com/wiki/European_Commonwealth)
+In questo contesto l’Italia, in quanto parte del territorio europeo, avrebbe fatto parte di questi eventi ma non vengono date descrizioni dettagliate specifiche su battaglie o governi italiani nei testi ufficiali canonici. La lore ufficiale tende a raccontare questi eventi a livello macroscopico (Europa nel suo insieme) più che a livello dei singoli Stati nazionali.
 
-## 2. La Grande Guerra (23 ottobre 2077) e gli attacchi nucleari
-La Grande Guerra è il punto di svolta nell’universo della Saga:
-- il 23 ottobre 2077, dopo anni di tensioni crescenti, una massiccia scambio di missili nucleari globale distrusse gran parte delle principali città del mondo in circa due ore, eliminando circa il 70% della popolazione mondiale. [Fonte: Wikipedia](https://it.wikipedia.org/wiki/Fallout_(serie))
-- nessuno nel mondo della Saga sa con certezza chi abbia attaccato per primo (lo si scopre solo nella serie TV, abbastanza recente) e i dettagli su come singoli paesi europei furono colpiti non sono mai forniti nei materiali canonici. [Fonte: studio accademico](file:///home/villo/Scaricati/1963_6206_Ferrari.pdf)
+## 2. La Terza Guerra Mondiale (23 ottobre 2077) e gli attacchi nucleari
+La Terza Guerra Mondiale è il punto di svolta nell’universo della Saga:
+- il 23 ottobre 2077, dopo anni di tensioni crescenti, una massiccia scambio di missili nucleari globale distrusse gran parte delle principali città del mondo in circa due ore, eliminando circa il 70% della popolazione mondiale.
+- nessuno nel mondo della Saga sa con certezza chi abbia attaccato per primo (lo si scopre solo nella serie TV, abbastanza recente) e i dettagli su come singoli paesi europei furono colpiti non sono mai forniti nei materiali canonici.
 
-Nei giochi e nei materiali ufficiali i principali racconti vengono da fonti americane o occidentali ma si capisce che ogni grande area urbana del mondo, Europa inclusa, fu devastata da esplosioni nucleari. La narrazione si concentra sui rifugi sotterranei degli Stati Uniti come meccanismo narrativo principale ma non significa che altri stati non fossero colpiti: piuttosto, la lore non approfondisce direttamente l’Italia o altri singoli paesi europei dopo l’esplosione, lasciando queste zone in uno stato di distruzione e anarchia analogo a quello degli USA. [Fonte: Wikipedia](https://it.wikipedia.org/wiki/Fallout_(serie))
+Nei giochi e nei materiali ufficiali i principali racconti vengono da fonti americane o occidentali ma si capisce che ogni grande area urbana del mondo, Europa inclusa, fu devastata da esplosioni nucleari. La narrazione si concentra sui rifugi sotterranei degli Stati Uniti come meccanismo narrativo principale ma non significa che altri stati non fossero colpiti: piuttosto, la lore non approfondisce direttamente l’Italia o altri singoli paesi europei dopo l’esplosione, lasciando queste zone in uno stato di distruzione e anarchia analogo a quello degli USA.
 
-## 3. Dopo la Grande Guerra: cosa succede in Europa (e implicitamente in Italia)
+## 3. Dopo la Terza Guerra Mondiale: cosa succede in Europa (e implicitamente in Italia)
 Dopo il 2077 la narrazione ufficiale si concentra quasi esclusivamente su zone ben definite nei videogiochi (USA nord-orientali, Nuovo Messico, Mojave, Appalachia, California ecc.) ma ci sono anche alcune note sintetiche sulla situazione europea.
 
 ### 3.1 Il collasso della Comunità Europea
-- dopo la fine formale delle Guerre delle Risorse e con la dissoluzione del Commonwealth l’Europa era già in uno stato di anarchia e conflitto interno (nazionalismi e rivalità tra ex Stati membri). [Fonte](https://fallout.fandom.com/it/wiki/Comunità_Europea)
-- questo significa che alla scoppio della Grande Guerra i singoli paesi europei erano probabilmente già impegnati in conflitti regionali e privi di un’autorità centrale forte. [Fonte](https://fallout.fandom.com/it/wiki/Storia_prebellica)
+- dopo la fine formale dei Conflitti Energetici e con la dissoluzione del Commonwealth l’Europa era già in uno stato di anarchia e conflitto interno (nazionalismi e rivalità tra ex Stati membri).
+- questo significa che alla scoppio della Terza Guerra Mondiale i singoli paesi europei erano probabilmente già impegnati in conflitti regionali e privi di un’autorità centrale forte.
 
 ### 3.2 Implicazioni per l’Italia
 - anche se non ci sono testi ufficiali dettagliati una lettura coerente della lore suggerisce che l’Italia sarebbe stata profondamente segnata dalla crisi delle risorse, dalla dissoluzione statale del post-Commonwealth e dall’attacco nucleare del 2077, con le città principali distrutte o pesantemente irradiate come il resto del continente.
@@ -221,21 +221,21 @@ Dopo il 2077 la narrazione ufficiale si concentra quasi esclusivamente su zone b
   - tentativi di ricostruzione sparsi,
   - micro-fazioni indipendenti.
 
-Queste ultime __ipotesi__ sono coerenti con ciò che accade in altre regioni nel mondo della Saga ma non sono mai state canonizzate dai creatori ufficiali. Sono tratte da fan lore, mappe speculative o discussioni creative della community (che non sono ufficiali). [Fonte ipotesi: Deviantart](https://www.deviantart.com/lorddimertelo2231/art/Fallout-Italy-918147778)
+Queste ultime __ipotesi__ sono coerenti con ciò che accade in altre regioni nel mondo della Saga ma non sono mai state canonizzate dai creatori ufficiali. Sono tratte da fan lore, mappe speculative o discussioni creative della community (che non sono ufficiali).
 
 ## Conclusione generale
 ### Cosa è ufficialmente confermato
-- l’Europa era unita in un blocco (Comunità Europea) prima delle Guerre delle Risorse e fu coinvolta nei conflitti globali per il petrolio e altre risorse. [Fonte](https://fallout.fandom.com/wiki/European_Commonwealth)
-- la crisi delle risorse causò guerre in tutto il mondo e portò alla dissoluzione di molte entità politiche europee prima della Grande Guerra. [Fonte](https://fallout.fandom.com/it/wiki/Storia_prebellica)
-- la Grande Guerra nucleare del 2077 colpì il pianeta interamente, con devastazione simile in ogni continente, inclusa l’Europa. [Fonte: Wikipedia](https://it.wikipedia.org/wiki/Fallout_(serie))
+- l’Europa era unita in un blocco (Comunità Europea) prima dei Conflitti Energetici e fu coinvolta nei conflitti globali per il petrolio e altre risorse.
+- la crisi delle risorse causò guerre in tutto il mondo e portò alla dissoluzione di molte entità politiche europee prima della Terza Guerra Mondiale.
+- la Terza Guerra Mondiale nucleare del 2077 colpì il pianeta interamente, con devastazione simile in ogni continente, inclusa l’Europa.
 
 ### Cosa non è dettagliato nella lore ufficiale
 - eventi precisi e storie specifiche sul territorio italiano (come lotte per città italiane, fazioni con nomi italiani, narrazioni ambientate davvero in Italia) non compaiono nei materiali canonici principali pubblicati dalla casa produttrice dei giochi o dagli autori ufficiali.
 - le informazioni su ciò che avvenne dopo negli spazi europei sono molto rare nei canoni ufficiali del gioco.
 
-Quindi la lore ufficiale fornisce un quadro generale plausibile per l’Italia all’interno del contesto europeo pre- e post-Grande Guerra ma manca di riferimenti specifici documentati e canonici su singole città, gruppi o episodi ambientali nel nostro paese.
+Quindi la lore ufficiale fornisce un quadro generale plausibile per l’Italia all’interno del contesto europeo pre- e post-Terza Guerra Mondiale ma manca di riferimenti specifici documentati e canonici su singole città, gruppi o episodi ambientali nel nostro paese.
 
-Tuttavia, molti fan hanno colmato questo vuoto con lavori non ufficiali o headcanon che possono essere affascinanti ma non sono canon. [Fonte ipotesi: Deviantart](https://www.deviantart.com/lorddimertelo2231/art/Fallout-Italy-918147778)
+Tuttavia, molti fan hanno colmato questo vuoto con lavori non ufficiali o headcanon che possono essere affascinanti ma non sono canon.
 
 ---
 
@@ -248,9 +248,9 @@ Quindi andiamo a proporre la nostra visione della storia, visione la più coeren
 Ora alcuni punti fermi:
 
 ### Dati di fatto: scarso coinvolgimento
-L'Italia è stata un paese poco coinvolto direttamente nelle Guerre delle Risorse, se facciamo un paragone con l'Italia odierna non abbiamo un esercito particolarmente potente. Abbiamo ottime industrie militari e aerospaziali ma il nostro esercito non è adatto ad operazioni offensive ma piuttosto ad operazioni di pacekeeping (che non è certo un demerito, anzi!), sia per attrezzatura che per armamenti che per esperienza.
+L'Italia è stata un paese poco coinvolto direttamente nei Conflitti Energetici, se facciamo un paragone con l'Italia odierna non abbiamo un esercito particolarmente potente. Abbiamo ottime industrie militari e aerospaziali ma il nostro esercito non è adatto ad operazioni offensive ma piuttosto ad operazioni di pacekeeping (che non è certo un demerito, anzi!), sia per attrezzatura che per armamenti che per esperienza.
 
-Questo suo scarso coinvolgimento è stato un riparo sia dai problemi e dalle distruzioni generate prima dalle Guerre delle Risorse e poi dalla Grande Guerra vera e propria: bersaglio delle testate nucleari potrebbero essere stati solo i centri di potere politico, di potere economico e delle industrie militari ed aerospaziali. Quindi quattro città in tutto: Torino (industrie aerospaziali), Milano (finanza), Roma (potere politica) e Napoli (industrie militari).
+Questo suo scarso coinvolgimento è stato un riparo sia dai problemi e dalle distruzioni generate prima dai Conflitti Energetici e poi dalla Terza Guerra Mondiale vera e propria: bersaglio delle testate nucleari potrebbero essere stati solo i centri di potere politico, di potere economico e delle industrie militari ed aerospaziali. Quindi quattro città in tutto: Torino (industrie aerospaziali), Milano (finanza), Roma (potere politica) e Napoli (industrie militari).
 
 ### Dati di fatto: bersaglio termonucleare secondario
 Le premesse dello scarso coinvolgimento implicano nella nostra visione la caduta di sole quattro testate termonucleari, di piccola/media potenza, su tutto il territorio nazionale.
@@ -264,29 +264,25 @@ Ad oggi l'Italia ha ottimi istituti/enti di ricerca, molto quotati a livello int
   - Il Consorzio Interuniversitario del Nord-Est per il Calcolo Automatico (CINECA). [Fonte: Wikipedia](https://it.wikipedia.org/wiki/CINECA)
   - e tanti altri... [Fonte: Wikipedia](https://it.wikipedia.org/wiki/Categoria:Enti_pubblici_di_ricerca) [Fonte: Wikipedia](https://it.wikipedia.org/wiki/Categoria:Istituti_di_ricerca_in_Italia)
 
-Questi istituti (e altri sorti in seguito) avranno sicuramente continuato a lavorare durante tutto il perio antecedente alla Grande Guerra, attraverso il periodo delle Guerre delle Risorse.
+Questi istituti (e altri sorti in seguito) avranno sicuramente continuato a lavorare durante tutto il perio antecedente alla Terza Guerra Mondiale, attraverso il periodo dei Conflitti Energetici.
 
 ### Dati di fatto: il Mediterraneo è prosciugato
-Nel periodo della nostra ambientazione (2287) il bacino del Mediterraneo è quasi totalmente prosciugato, con poche zone marine solo in quelli che sono i punti più profondi.
+Nel periodo della nostra ambientazione (2287) il bacino del Mediterraneo è quasi totalmente prosciugato, con poche zone marine solo nelle zone più profonde.
 
 In pratica lo stesso scenario già successo durante quella che è stata chiamata [Crisi di salinità del Messiniano](https://it.wikipedia.org/wiki/Crisi_di_salinit%C3%A0_del_Messiniano).
 
 Il prosciugamento del bacino del Mediterraneo nella nostra visione non è una ipotesi, l'affermazione è surrogata da prove contenute nei giochi della Saga originale e originata da progetti realmente esistiti.
 
 #### Prove e immagini dai giochi
-Nelle immagini all'interno dei giochi il mare Mediterraneo sembra totalmente prosciugato:
+Nelle immagini all'interno dei giochi il mare Mediterraneo sembra totalmente prosciugato, una breve ricerca sul web può confermarlo.:
 
-[Fonte: carta geografica](https://i.imgur.com/UeEpx6y.png)
-
-[Fonte: proiezioni mappamondo](https://static.wikia.nocookie.net/fallout/images/e/e2/PlayerHouse_Globe01.png)
-
-Ci sono [discussioni su Reddit](https://www.reddit.com/r/falloutlore/comments/1aosxs2/is_the_world_map_shown_in_fallout_4_really/) riguardo questo fatto.
+Ci sono anche discussioni su Reddit riguardo questo fatto.
 
 #### Un progetto realmente esistito: Atlantropa
 L'idea di prosciugare il mare Mediterraneo è stata proposta realmente nella prima metà del XX secolo dall'architetto tedesco Herman Sörgel. Il progetto, presentato nel 1927 con il nome [Atlantropa](https://it.wikipedia.org/wiki/Atlantropa) ebbe forte risonanza in tutto l'ambiente intellettuale del periodo, specialmente nell'Italia fascista e nella Germania nazista. Non venne portato avanti a causa della forte opposizione della Società delle Nazioni (confronta l'articolo su Wikipedia).
 
 #### Neo Atlantropa
-Ora è semplice immaginare un progetto della Comunità Europea che riprenda Atlantropa perché con il fallimento delle Guerre delle Risorse con c'erano altre chances: implementare il progetto per poterlo sfruttare principalmente a fini di produzione di energia idroelettrica su scala continentale.
+Ora è semplice immaginare un progetto della Comunità Europea che riprenda Atlantropa perché con il fallimento dei Conflitti Energetici con c'erano altre chances: implementare il progetto per poterlo sfruttare principalmente a fini di produzione di energia idroelettrica su scala continentale.
 
 Questo progetto, [Neo Atlantropa](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa.html), è stato l'ultimo scatto disperato prima della fine.
 
@@ -298,12 +294,12 @@ Ora diventa semplice tratteggiare il nostro scenario su cosa è successo in Ital
 
 Come abbiamo detto precedentemente:
 - inizialmente facciamo parte della Comunità Europea
-- non siamo coinvolti attivamente nelle Guerre delle Risorse ma forniamo solo supporto tramite la nostria industria bellica e l'apparato scientifico (di altissimo livello)
+- non siamo coinvolti attivamente nei Conflitti Energetici ma forniamo solo supporto tramite la nostra industria bellica e l'apparato scientifico (di altissimo livello)
 - con Neo Atlantropa il Mediterraneo si prosciuga e le nostre attuali coste cessano di essere coste
 - le nostre strutture scientifiche, di ricerca e industriali iniziano a cercare di sfruttare le nuove terre che si prosciugano
 - la Comunità Europea si disgrega completamente
 - essendo un progetto europeo Neo Atlantropa si ferma del tutto, comprese le infrastrutture idroelettriche (che comunque non erano ancora entrate realmente in funzione)
-- Scoppia la Grande Guerra del 2077, noi veniamo colpiti solo marginalmente dalle testate termonucleari
+- Scoppia la Terza Guerra Mondiale del 2077, noi veniamo colpiti solo marginalmente dalle testate termonucleari
 
 Ora iniziamo a descrivere bene lo stato della penisola.
 - il centro del comparto aerospaziale (Torino) è completamente annullato.
@@ -321,7 +317,7 @@ Le principali sedi della ricerca scientifica rimangono intatti (Università di B
 
 CNR, ENEA ed Eni rimangono intatti.
 
-Però se eravamo allo stretto prima della Grande Guerra ora non abbiamo più risorse di alcun tipo: energia elettrica per le industrie (specialmente con il blocco di Neo Atlantropa) e risorse idriche per popolazione e agricoltura.
+Però se eravamo allo stretto prima della Terza Guerra Mondiale ora non abbiamo più risorse di alcun tipo: energia elettrica per le industrie (specialmente con il blocco di Neo Atlantropa) e risorse idriche per popolazione e agricoltura.
 
 Ma non solo noi, in Italia, il ragionamento vale anche per gli altri paesi europei.
 
@@ -336,7 +332,7 @@ A questo punto eravamo ad un punto morto, veramente a corto di idee e per uscire
 Devo dire che inizialmente sembrava uno sparo nel buio.
 
 ## 1. Uno sparo nel buio
-Innanzitutto devo spiegare che sono un informatico di professione, siono perfettamente conscio che le attuali IA non sono in grado di creare assolutamente nulla.
+Innanzitutto devo spiegare che sono un informatico di professione, sono perfettamente conscio che le attuali IA non sono in grado di creare assolutamente nulla.
 
 Sono però fenomenali per lasciarci la libertà di ragionare, svolgendo in fretta e meticolosamente i compiti più laboriosi e tediosi ossia fare ricerche e riassumere.
 
@@ -353,7 +349,7 @@ Si tratta di un mare poco profondo, veramente poco profondo, nella parte più a 
 
 Questo meccanismo si vede all'opera anche sulla costa, con il Po che forma il delta e i fiumi veneti e friulani che hanno portato alla formazione delle lagune veneta e di grado.
 
-Sempre nell'articolo su Wikipedia relativo alla crisi di salinità del Messiniano la prima immagine è un profilo orografico e batimetrico relativo al bacino del Mediterraneo dove si vede __benissimo__ la sua conformazione totalmente viversa dal resto del bacino, la linko sempre per comodità:
+Sempre nell'articolo su Wikipedia relativo alla crisi di salinità del Messiniano la prima immagine è un profilo orografico e batimetrico relativo al bacino del Mediterraneo dove si vede __benissimo__ la sua conformazione totalmente diversa dal resto del bacino, la linko sempre per comodità:
 ![Mappa del Mediterraneo, con la morfologia dei fondali.](https://upload.wikimedia.org/wikipedia/commons/a/ae/Mediterranean_Sea_surface.jpg)
 
 Questo è un punto di svolta, perché se sul mar Ligure, sul Tirreno, sul Canale di Sicilia e sullo Ionio le coste diventano scarpate violente che si inabissano repentinamente nell'Adriatico no.
@@ -373,24 +369,24 @@ Direi uno sparo nel buio riuscito molto bene.
 ## 2. Di cosa necessitiamo?
 Mentre stabilizzavo questo scenario continuavo a pensare che se avevo trovato il luogo non avevo trovato esattamente il punto di rottura, ciò che avrebbe fatto divergere la nostra lore da quella canonica.
 
-Dopo parecchi tentativi infruttuosi mi sono reso conto che la situazione così com'era era un circolo chiuso: non avevamo energia e risorse, avevamo capacitè di ricerca e produzione per reperire risorse però ricerca e produzione necessitavano di risorse che non avevamo.
+Dopo parecchi tentativi infruttuosi mi sono reso conto che la situazione così com'era era un circolo chiuso: non avevamo energia e risorse, avevamo capacità di ricerca e produzione per reperire risorse però ricerca e produzione necessitavano di risorse che non avevamo.
 
-Ho deciso quindi di cambiare approccio e cercare di capire cos'era che il nord America aveva e noi non avevamo e la risposta è stata velocissima e lampante: la tecnologia a microfusione.
+Ho deciso quindi di cambiare approccio e cercare di capire cos'era che il nord America aveva e noi non avevamo e la risposta è stata velocissima e lampante: la tecnologia a fusione avanzata miniaturizzata.
 
 È questa tecnologia che permetteva al nord America di mantenere i suoi elevati standard:
-- generatori a microfusione
-- robot a microfusione
-- auto a microfusione
-- aerei a microfusione
+- generatori a fusione avanzata miniaturizzata
+- robot a fusione avanzata miniaturizzata
+- auto a fusione avanzata miniaturizzata
+- aerei a fusione avanzata miniaturizzata
 - nuclei di fusione
-- generatori a microfusione
+- generatori a fusione avanzata miniaturizzata
 - celle a fusione
-- armature atomiche a microfusione
+- armature atomiche a fusione avanzata miniaturizzata
 - armi ad energia
 
-Tutto alimentato dalla microfusione.
+Tutto alimentato dalla fusione avanzata miniaturizzata.
 
-Una fonte di energia che in Europa non avevamo, che i nordamericani non ci passavano e che ci ha costretto alle Guerre delle Risorse, se l'avessimo avuta o ce l'avessero passata non ci sarebbe stata la necessità delle guerre.
+Una fonte di energia che in Europa non avevamo, che i nordamericani non ci passavano e che ci ha costretto ai Conflitti Energetici, se l'avessimo avuta o ce l'avessero passata non ci sarebbe stata la necessità delle guerre.
 
 Stabilito questo punto fermo diventa anche lampante che non la si può introdurre nel nostro senario senza sconvolgere la lore ufficiale, quindi si deve trovare una alternativa.
 
@@ -420,7 +416,7 @@ Bioelettricità.
 Un secondo sparo nel buio __mooOoolto__ fruttuoso, perché le possibilità di sviluppo del nostro scenario Italiano diventano enormi.
 
 ## 4. Il nuovo scenario
-La cosa interessante è che la scoperta è totalmente prebellica, precedente alle Guerre delle Risorse, può datarsi a quando l'Adriatico ha iniziato a prosciugarsi.
+La cosa interessante è che la scoperta è totalmente prebellica, precedente ai Conflitti Energetici, può datarsi a quando l'Adriatico ha iniziato a prosciugarsi.
 
 Questo fornisce tempo. Tempo per ricerca e sviluppo. E fornisce le basi per spiegare tantissimi aspetti.
 
@@ -446,14 +442,14 @@ Con questo si alimenta tutto:
 - bionuclei per apparati portatili
 - biocelle come munizioni per armi ad energia
 
-E, soprattutto, la tecnololgia sviluppata è semplice, alla portata di una costruzione artigianale. La differenza fra una produzione industriale e una artigianale è nell'efficienza, ma la costruzione a bassa efficienza è a portata di tutti giustificando il perdurare della tecnologia anche nel periodo post-bellico fino al nostro setting che è il 2287.
+E, soprattutto, la tecnologia sviluppata è semplice, alla portata di una costruzione artigianale. La differenza fra una produzione industriale e una artigianale è nell'efficienza, ma la costruzione a bassa efficienza è a portata di tutti giustificando il perdurare della tecnologia anche nel periodo post-bellico fino al nostro setting che è il 2287.
 
 ### 4.2 Noi ce la siamo cavata
 Ci siamo, spieghiamo lo scenario completo pre bellico.
 
 La scoperta è prebellica e segreta, dall'esterno si vede solo che noi abbiamo iniziato ad accedere a risorse (inizialmente in modo limitato) e che abbiamo ripreso a produrre.
 
-Questo ci tiene fuori dalle Guerre delle Risorse, a questo punto siamo molto più appetibili per il contributo che possiamo dare allo sforzo bellico con la produzione di armi ed armamenti (anche ad energia) da parte delle nostre industrie militari che non per il contributo che possono dare le nostre truppe.
+Questo ci tiene fuori dai Conflitti Energetici, a questo punto siamo molto più appetibili per il contributo che possiamo dare allo sforzo bellico con la produzione di armi ed armamenti (anche ad energia) da parte delle nostre industrie militari che non per il contributo che possono dare le nostre truppe.
 
 Truppe che vengono usate per mantenere il segreto, blindando centri di ricerca e di produzione per il settore militare con la scusa della protezione e sicurezza degli impianti produttivi per lo sforzo bellico comunitario.
 
@@ -463,13 +459,13 @@ Al crollo della Comunità Europea le prospettive vengono ridimensionate anche a 
 
 In pratica fino ad ora _ce la siamo cavata_.
 
-Ora è il momento della _Grande Guerra_ del 2077 e in un lampo scompaiono i centri aerospaziali, i centri finanziari, il potere politico e gli impianti di produzione militare.
+Ora è il momento della _Terza Guerra Mondiale_ del 2077 e in un lampo scompaiono i centri aerospaziali, i centri finanziari, il potere politico e gli impianti di produzione militare.
 
 Bene, _ce la siamo cavata_ anche in questo momento drammatico, la maggior parte del territorio è intatta e rimane la possibilità di produrre i dispositivi anche artigianalmente. A bassa efficienza, certo, ma li si può produrre con pochissime risorse anche nel garage, con mezzi di recupero, a patto di avere i microorganismi.
 
 Che però venivano coltivati con tecnologie sofisticate a Napoli e gli impianti sono andati in fumo con la caduta della bomba termonucleare.
 
-Rimane così una sola possibilità, andarli a raccogliere direttamente nel Deserto Adriatico, per secoli si raccolgono, sono scarsi, sono oggetto di razzie e furti, diventano una delle risorse più ambite e costose.
+Rimane così una sola possibilità, andarli a raccogliere direttamente nel Deserto Adriatico, si raccolgono per secoli, sono scarsi, sono oggetto di razzie e furti, diventano una delle risorse più ambite e costose.
 
 Al punto che i campi di biopannelli esistenti diventano risorse locali strategiche la cui protezione è essenziale per evitare il saccheggio dei microorganismi da parte della popolazione.
 
@@ -486,14 +482,14 @@ Tutti questi centri di potere controllano anche zone rurali nei loro dintorni ch
 
 Se lo scenario vi ricorda l'Italia medioevale e l'età dei Comuni, beh, mi piacerebbe dire che è voluto ma in realtà è stato fortuito, è uscito così, non è colpa mia.
 
-Ma questo scenario è essenziale per dire che _ce la siamo cavata_ anche dopo la Grande Guerra del 2077, anzi, la popolazione continua frammentata in realtà locali consolidate, per due secoli fino al 2287.
+Ma questo scenario è essenziale per dire che _ce la siamo cavata_ anche dopo la Terza Guerra Mondiale del 2077, anzi, la popolazione continua frammentata in realtà locali consolidate, per due secoli fino al 2287.
 
 La vita in fin dei conti è continuata con una società sugli standard medioevali, non il massimo ma pur sempre meglio che mangiarci fra di noi.
 
 In tutto questo c'è però ci sono dei grandi assenti:
 - radioattività
-- ghoul
-- vault
+- Irradiati
+- rifugi antiatomici
 
 ### 4.3 E la radioattività?
 La radioattività è sempre presente nei giochi della Saga originale mentre fin'ora l'abbiamo esclusa dal nostro scenario.
@@ -514,12 +510,12 @@ Semplice e lineare.
 
 E le protezioni sono antitossine oppure [tute a protezione completa](https://it.wikipedia.org/wiki/Dispositivi_di_protezione_individuale).
 
-### 4.4 E con i ghoul come facciamo?
+### 4.4 E con gli Irradiati come facciamo?
 Santi numi, ma sempre microorganismi mutati: non bioelettrici, non tossici ma __mutageni__.
 
 È pieno di giochi la fuori in cui sono presenti umani e animali che vengono mutati da agenti patogeni, ecco la soluzione.
 
-Qualsiasi caratteristica dei ghoul può essere riprodotta con questo setting: uno degli effetti collaterali è la longevità, ci sono ceppi che mutano solo il corpo lasciando l'intelletto inalterato, altri ceppi sono responsabili anche del degrado cognitivo, ecc...
+Qualsiasi caratteristica degli Irradiati può essere riprodotta con questo setting: uno degli effetti collaterali è la longevità, ci sono ceppi che mutano solo il corpo lasciando l'intelletto inalterato, altri ceppi sono responsabili anche del degrado cognitivo, ecc...
 
 E qualsiasi animale può subire mutazioni, generando tutta una fauna particolare es esclusiva del nostro setting, non c'è bisogno di riprodurre i mostri originali. O pensate che una anguilla di nove metri adattata a vivere nell'alto deserto muovendosi anche sotto la sabbia sia un nemico da nulla?
 
@@ -527,12 +523,12 @@ O una nutria diventata bipede e alta due metri, con artigli affilatissimi?
 
 O un porcospino da 200 Kg che ha acquisito la possibilità di lanciare gli aculei?
 
-Microorganismi mutati, li abbiamo appena itrodotti e cosa facciamo, non li usiamo?
+Microorganismi mutati, li abbiamo appena introdotti e cosa facciamo, non li usiamo?
 
-### 4.5 Ma almeno i vault ce li mettiamo?
+### 4.5 Ma almeno i rifugi antiatomici ce li mettiamo?
 No. Non ci servono e non c'è spazio nella nostra linea di lore per una azienda civile che li produce.
 
-Ci saranno stati sicuramente bunker militari di tutti i tipi, dove saranno stati accolti e avranno trovato rifugio anche le elite finanziarie e politiche ma la loro fuzione sarà diversa, e francamente in un setting europeo che finisce per assomigliare tantissimo al medioevo e all'età comunale non abbiamo bisogno di una azienda del compalesso militare-industriale per creare dei villain adeguati.
+Ci saranno stati sicuramente bunker militari di tutti i tipi, dove saranno stati accolti e avranno trovato rifugio anche le elite finanziarie e politiche ma la loro funzione sarà diversa, e francamente in un setting europeo che finisce per assomigliare tantissimo al medioevo e all'età comunale non abbiamo bisogno di una azienda del complesso militare-industriale per creare dei villain adeguati.
 
 Diamo però atto che abbiamo sicuramente bisogno di un tratto veramente distintivo del nostro setting che lo differenzi dalla Saga originale senza andare contro alla lore ufficiale, una chicca finale.
 
@@ -545,7 +541,7 @@ Abbiamo già visto una intera saga di fantascienza basata su questo plot, un int
 
 Ne è stata fatta negli anni Ottanta una riduzione cinematografica strepitosa e non tanto tempo fa ne è stata ricavata una serie TV altrettanto strepitosa.
 
-In questa saga il deserto è abitato sa un popolo che si è adattato perfettamente alla vita in queste condizioni durissime e che riesce a sfruttare i vermi per il trasporto.
+In questa saga il deserto è abitato da un popolo che si è adattato perfettamente alla vita in queste condizioni durissime e che riesce a sfruttare i vermi per il trasporto.
 
 Bene, nel nostro setting ci sarà un popolo del deserto con caratteristiche simili, una mistica simile e che similarmente è in lotta con gli abitanti della vecchia costa che entrano nel deserto per raccogliere i microorganismi.
 

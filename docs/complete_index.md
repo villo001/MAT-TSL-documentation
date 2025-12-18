@@ -5,6 +5,7 @@ title: Indice Completo della Documentazione
 Questo documento contiene **tutti i link** alla documentazione di *Mediterranean Atomic Tales – The Sunken Land*.
 
 - [Homepage](/MAT-TSL-documentation/index.html)
+- [Struttura Documentazione](/MAT-TSL-documentation/architecture.html)
 - [Documenti di Design](/MAT-TSL-documentation/designdocs/index.html)
   - [Asset](/MAT-TSL-documentation/designdocs/assets/index.html)
     - [Personaggi](/MAT-TSL-documentation/designdocs/assets/characters.html)
