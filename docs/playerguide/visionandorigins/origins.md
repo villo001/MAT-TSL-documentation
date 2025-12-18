@@ -3,7 +3,7 @@ title: Origini delle Idee
 ---
 # Origini delle Idee
 
-Il concept nasce dall'ispirazione a RPG come Fallout 4 e giochi open-world, unendo:
+Questo concept trae ispirazione dagli RPG 3D open-world in prima persona e combina:
 - Ambientazioni post-apocalittiche
 - Storia ramificata e lore profonda
 - Fazioni e società credibili

@@ -1,18 +1,25 @@
 # Contribuire alla documentazione di Mediterranean Atomic Tales - The Sunken Land
 Grazie per il tuo interesse nel contribuire a __Mediterranean Atomic Tales - The Sunken Land (MAT:TSL)__.  
-Questo progetto è prima di tutto un lavoro di __worldbuilding, documentazione e design__, ambientato in un universo ispirato a *Fallout*.
+
+Questo progetto è prima di tutto un lavoro di __worldbuilding, documentazione e design__, ambientato in un universo narrativo post-apocalittico retrofuturistico,
+ispirato a una celebre Saga videoludica e televisiva, senza riprodurre contenuti protetti da copyright.
 
 Contributi ponderati, coerenti e ben documentati sono sempre benvenuti.
+
+> Nota: il progetto prende ispirazione da un universo narrativo esistente,
+> utilizzato come riferimento culturale e strutturale, senza riprodurne
+> direttamente personaggi, eventi proprietari o materiali protetti.
+> La stessa cura dovrà essere seguita anche nei contributi presentati.
 
 ---
 
 # Filosofia del Progetto
-Le linee quida principali sono:
+Le linee guida principali sono:
 - La __coerenza interna__ ha priorità sulla quantità;
 - Il worldbuilding deve essere:
   - plausibile,
   - stratificato,
-  - coerente con la timeline di Fallout;
+  - coerente con la timeline canonica dell’universo narrativo di riferimento (nella Saga citata precedentemente, dai Conflitti Energetici fino al mondo post-2077);
 - Ogni contributo dovrebbe __arricchire il mondo__, non solo aggiungere testo.
 
 ---
@@ -42,7 +49,7 @@ Puoi contribuire in diversi modi:
 
 ## Cosa NON accettiamo
 - Fanfiction scollegata dal contesto
-- Contenuti che contraddicono apertamente la lore di Fallout
+- Contenuti che contraddicono apertamente la lore e i presupposti dell’universo narrativo di riferimento (la Saga citata precedentemente)
 - Aggiunte non documentate o senza contesto
 - Materiale offensivo, discriminatorio o gratuito
 
@@ -52,7 +59,7 @@ Puoi contribuire in diversi modi:
 - Tutti i file sono in __Markdown__
 - Tutti i percorsi sono __minuscoli__
 - Ogni directory deve avere un __index.md__ che contiene i link agli altri documenti della directory
-- Se si aggiunge un documento ad una directory si deve aggiornare anche il relativo __index.md__
+- Se si aggiunge un documento a una directory si deve aggiornare anche il relativo __index.md__
 - I link devono essere __assoluti__ (es. "/MAT-TSL-documentation/...")
 
 ---

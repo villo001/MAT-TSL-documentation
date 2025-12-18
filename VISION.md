@@ -2,19 +2,17 @@
 
 ## Cos’è MAT:TSL
 
-**Mediterranean Atomic Tales – The Sunken Land (MAT:TSL)** è un progetto open source di
-**worldbuilding, documentazione e game design** ambientato in un’Europa post-apocalittica,
-con particolare focus sull’Italia, all’interno dell’universo narrativo di *Fallout*.
+**Mediterranean Atomic Tales – The Sunken Land (MAT:TSL)** è un progetto open source di **worldbuilding, documentazione e game design** ambientato in un’Europa post-apocalittica, con particolare focus sull’Italia, all’interno dell’universo narrativo di una nota Saga videoludica.
 
-MAT:TSL non nasce come fanfiction, ma come **ricostruzione sistematica e credibile**
-di ciò che potrebbe essere accaduto nel Mediterraneo dopo la Guerra delle Risorse
-e la Grande Guerra del 2077.
+MAT:TSL non nasce come fanfiction, ma come **ricostruzione sistematica e credibile** di ciò che potrebbe essere accaduto nel Mediterraneo dopo Conflitti Energetici e la Terza Guerra Mondiale del 2077.
+
+MAT:TSL è progettato per essere compatibile con la lore della Saga originale ma non dipendente da personaggi, luoghi o eventi non necessari.
 
 ---
 
 ## Perché questo progetto esiste
 
-Nell’universo di Fallout:
+Nell’universo della Saga:
 - il Nord America è ampiamente esplorato
 - l’Europa è quasi assente
 - il Mediterraneo è solo accennato
@@ -25,11 +23,39 @@ MAT:TSL nasce per rispondere a una domanda semplice ma mai affrontata seriamente
 
 ---
 
+## Ambito del progetto
+
+MAT:TSL nasce come:
+- progetto di worldbuilding strutturato
+- base documentale per un gioco single-player RPG
+- riferimento narrativo coerente con l’universo della Saga
+
+Non è garantito che:
+- il gioco venga completato
+- il progetto diventi commerciale
+- tutte le parti vengano implementate in forma ludica
+
+La documentazione è considerata **output valido di per sé**.
+
+---
+
+## A chi è rivolto questo documento
+
+Questo documento è pensato per:
+- autori e worldbuilder
+- game designer
+- contributor tecnici
+- chiunque voglia capire *che tipo di progetto è MAT:TSL*
+
+Non è una guida per il giocatore finale.
+
+---
+
 ## Principi Fondanti
 
 ### 1. Coerenza prima di tutto
 Ogni elemento deve:
-- rispettare la timeline di Fallout
+- rispettare la timeline della Saga
 - essere logicamente conseguente
 - avere cause ed effetti chiari
 
@@ -77,7 +103,7 @@ L’Italia non è uno sfondo esotico:
 
 ## Cosa NON è MAT:TSL
 
-- Non è un remake di Fallout
+- Non è un remake di un qualsiasi gioco della Saga
 - Non è un clone narrativo
 - Non è una fanfiction autoreferenziale
 - Non è un progetto “usa e getta”
@@ -105,3 +131,4 @@ Quando arriverà alla versione **1.0.0**, il mondo sarà considerato **canonico 
 
 > *Il mondo è finito nel 2077.  
 > Ma le sue conseguenze non hanno mai smesso di propagarsi.*
+

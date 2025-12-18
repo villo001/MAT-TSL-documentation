@@ -1,5 +1,5 @@
 ---
-title: Mediterraneal Atomic Tales: The Sunken Lands
+title: Mediterraneal Atomic Tales: The Sunken Land
 ---
 # Un gioco di ruolo post apocalittico ambientato in Italia
 
@@ -7,19 +7,20 @@ title: Mediterraneal Atomic Tales: The Sunken Lands
 
 Tutti sappiamo cos'è successo nel 2077: l'apocalisse, con testate atomiche che cadevano un po' dappertutto alla fine della guerra sinoamericana.
 
+
 ## E in Europa? E in Italia?
 
-Già, sappiamo del nord America, ma si conosce poco dell'Europa.
+Già, sappiamo del Nord America, ma si conosce poco dell'Europa.
 
-Cosa è successo?
+Che cosa è successo?
 
-E cosa è successo in Italia?
+E che cosa è successo in Italia?
 
-In genere sappiamo solo che l'Europa era già nel caos più completo dopo la _Guerra delle Risorse_ e che durante la _Notte Luminosa del 2077_ sono cadute solo poche testate nucleari visto che gli obiettivi militari erano ormai pochi. In Italia solo tre, a Milano, a Roma e a Napoli.
+In genere sappiamo solo che l'Europa era già nel caos più completo dopo i _Conflitti Energetici_ e che durante la _Notte Luminosa del 2077_ sono cadute solo poche testate nucleari, visto che gli obiettivi militari erano ormai pochi. In Italia solo quattro, a Torino, a Milano, a Roma e a Napoli.
 
-Ma Milano, Roma e Napoli non sono l'Italia, nel resto del belpaese cosa è successo?
+Ma Torino, Milano, Roma e Napoli non sono l'Italia; nel resto del belpaese cosa è successo?
 
-Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunkend Land__, un progetto nel quale puoi esplorare tutto quello che concerne l'Italia dalla _Guerra delle Risorse_ in poi.
+Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunken Land__, un progetto nel quale puoi esplorare tutto quello che concerne l'Italia dai _Conflitti Energetici_ in poi.
 
 # Leggi [La nostra visione del gioco](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html)
 
@@ -38,4 +39,5 @@ Scorri la guida per scoprire:
 
 ---
 
+- [Struttura Documentazione](/MAT-TSL-documentation/architecture.html)
 - [Indice Completo](/MAT-TSL-documentation/complete_index.html)

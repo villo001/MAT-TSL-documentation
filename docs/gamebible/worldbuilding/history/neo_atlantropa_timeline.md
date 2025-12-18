@@ -28,7 +28,7 @@ Le prime simulazioni indicano effetti drastici ma _gestibili_ e in parte auspica
 
 ## Fase II – Approvazione Politica (2020–2025)
 
-La Comunità Europea approva il progetto come parte strutturale alle Guerre delle Risorse, nascono consorzi industriali e energetici dedicati e viene deciso che:
+La Comunità Europea approva il progetto come parte strutturale alle Conflitti Energetici, nascono consorzi industriali e energetici dedicati e viene deciso che:
 - il prosciugamento sarà graduale, nell’arco di decenni;
 - l’Adriatico sarà uno dei bacini inizialmente più colpiti, ma anche più sfruttabili economicamente.
 
@@ -47,18 +47,18 @@ Il livello del Mediterraneo inizia a calare in modo misurabile. Specificatamente
 ## Fase IV – Declino e Instabilità (2060–2077)
 Le crisi politiche interne alla Comunità Europea sfociano in tagli ai fondi, scioperi, sabotaggi e abbandono di cantieri.
 
-Le opere principali restano operative ma senza una gestione centralizzata efficace il Mediterraneo è ormai in stato di prosciugamento avanzato.
+Le opere principali restano operative, ma senza una gestione centralizzata efficace, il Mediterraneo è ormai in stato di prosciugamento avanzato.
 
 Specificatamente, nel bacino adriatico:
 - il mare si ritira quasi completamente;
 - i fiumi ormai ridotti a rigagnoli per la crisi delle risorse idriche non depositano più sedimenti e si perdono immediatamente fra le sabbie emerse.
 
-## Fase V – Grande Guerra (2077)
+## Fase V – Terza Guerra Mondiale (2077)
 Scoppio del conflitto nucleare globale e fine definitiva di ogni attività coordinata su Neo Atlantropa.
 
-Le infrastrutture rimaste continuano a influenzare il livello delle acque in modo incontrollato, anche se non pià operativamente funzionanti.
+Le infrastrutture rimaste continuano a influenzare il livello delle acque in modo incontrollato, anche se non più operativamente funzionanti.
 
-Entro la fine del 2077 il Mediterraneo è considerato interamente prosciugato tranne le fosse più profonde, diventati biccoli bacini chiusi ad altissima salinità.
+Entro la fine del 2077 il Mediterraneo è considerato interamente prosciugato tranne le fosse più profonde, che diventano piccoli bacini chiusi ad altissima salinità.
 
 ## Fase VI – Era Postbellica (2077–2287)
 Due secoli di tempeste, vento costante e alterazioni climatiche estreme trasformano il vecchio fondale adriatico nel [Deserto Adriatico](/MAT-TSL-documentation/gamebible/worldbuilding/adriaticdesert/adriatic_desert.html):

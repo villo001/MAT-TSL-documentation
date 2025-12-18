@@ -159,7 +159,7 @@ patrol()
 - Underground Bunkers
 
 ## Luoghi chiave
-- Vault Station (tutorial)  
+- Stazione metro Bunker (tutorial)  
 - Città in rovina  
 - Fattoria isolata  
 - Fabbrica meccanica (boss)
@@ -170,7 +170,7 @@ patrol()
 ## NPC Principali
 | Nome | Ruolo | Località | Reazione | Quest |
 |---|---|---|---|---|
-| Evelyn | Alleata | Vault | Neutrale | Sparks of Hope |
+| Evelyn | Alleata | Stazione metro Bunker | Neutrale | Sparks of Hope |
 | Marek | Antagonista | Wastes | Ostile | The Iron Claim |
 
 ## Fazioni
@@ -316,7 +316,7 @@ weapon_knife_mk2:
   "id": "npc_evelyn_01",
   "name": "Evelyn",
   "role": "engineer",
-  "location": "vault_station",
+  "location": "stazione_metro_bunker",
   "dialogue_tree": "evelyn_intro.json",
   "inventory": ["wrench","scrap_metal"],
   "quests_given": ["sparks_of_hope"]
@@ -327,8 +327,8 @@ weapon_knife_mk2:
 ```yarn
 -> Hi
   Evelyn: "Sei finalmente sveglio."
-  -> Ask about the vault
-    Evelyn: "Il Vault è un museo di errori."
+  -> Ask about the bunker
+    Evelyn: "Il bunker è un museo di errori."
     -> Help her
       Evelyn: "Se mi aiuti posso riparare il generatore."
       <<quest: start sparks_of_hope>>
