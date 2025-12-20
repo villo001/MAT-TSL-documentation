@@ -56,7 +56,7 @@ Le potenze europee investirono risorse enormi nel progetto per affrontare:
 - l’esigenza di stabilità energetica prima del 2077.
 
 ## 4. Cronologia di Neo Atlantropa
-La timeline che segue è schematica e indica i periodi chiave dello sviluppo dell’iniziativa; è comunque disponibile una [timeline dettagliata](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa.html).
+La timeline che segue è schematica e indica i periodi chiave dello sviluppo dell’iniziativa; è comunque disponibile una [timeline dettagliata](/MAT-TSL-documentation/gamebible/setting/neoatlantropa/neo_atlantropa.html).
 
 ### 2000–2025: Preludio e Studi Iniziali
 - l’escalation delle Conflitti Energetici spinge la Comunità Europea a finanziare grandi progetti ingegneristici;

@@ -7,6 +7,6 @@ Questa sezione contiene tutte le informazioni di lore e worldbuilding necessarie
 # Sezioni
 - [Personaggi](/MAT-TSL-documentation/gamebible/characters/index.html)
 - [Fazioni](/MAT-TSL-documentation/gamebible/factions/index.html)
-- [Worldbuilding](/MAT-TSL-documentation/gamebible/worldbuilding/index.html)
+- [Worldbuilding](/MAT-TSL-documentation/gamebible/setting/index.html)
 - [Note di Lore](/MAT-TSL-documentation/gamebible/lorenotes.html)
 

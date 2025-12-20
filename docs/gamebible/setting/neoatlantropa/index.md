@@ -5,6 +5,6 @@ title: Progetto Neo Atlantropa
 Il progetto Neo Atlantropa
 
 # Sezioni
-- [Neo Atlantropa: Panoramica](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa.html)
-- [Neo Atlantropa: Cause ed Effetti](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa_cause_effects.html)
+- [Neo Atlantropa: Panoramica](/MAT-TSL-documentation/gamebible/setting/neoatlantropa/neo_atlantropa.html)
+- [Neo Atlantropa: Cause ed Effetti](/MAT-TSL-documentation/gamebible/setting/neoatlantropa/neo_atlantropa_cause_effects.html)
 

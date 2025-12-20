@@ -24,7 +24,7 @@ Le basi teoriche del prosciugamento dell’Adriatico affondano nel progetto geop
 
 Questo progetto (inizialmente appoggiato dell'Italia fascista e dalla Germania nazista, poi abortito per l'opposizione della Società delle Nazioni) prevedeva la costruzione di dighe nello stretto di Gibilterra, fra la Sicilia e l'Africa, fra la Sicilia e la Calabria e sui Dardanelli per isolare e compartimentare il Mare Mediterraneo allo scopo di prosciugarlo per ottenere nuove terre da colonizzare e energia idroelettrica prodotta dalle centrali costruite alla base delle dighe.
 
-Nel XXI secolo, con la crescente crisi energetica e idrica globale, alcuni elementi utopistici di Atlantropa vengono reinterpretati in chiave utilitaristica da consorzi euro-mediterranei e neocorporazioni energetiche: nasce [Neo Atlantropa](/MAT-TSL-documentation/gamebible/worldbuilding/neoatlantropa/neo_atlantropa.html), lo stesso progetto di Herman Sörgel però ripensato con le nuove tecnologie e preminentemente indirizzato alla produzione di energia idroelettrica su scala continentale per fare fronte alla scarsità di fonti energetiche fossili.
+Nel XXI secolo, con la crescente crisi energetica e idrica globale, alcuni elementi utopistici di Atlantropa vengono reinterpretati in chiave utilitaristica da consorzi euro-mediterranei e neocorporazioni energetiche: nasce [Neo Atlantropa](/MAT-TSL-documentation/gamebible/setting/neoatlantropa/neo_atlantropa.html), lo stesso progetto di Herman Sörgel però ripensato con le nuove tecnologie e preminentemente indirizzato alla produzione di energia idroelettrica su scala continentale per fare fronte alla scarsità di fonti energetiche fossili.
 
 ## 2.2. Il “Nuovo Mediterraneo”: opere pre-Conflitti Energetici
 Tra il 2035 e il 2060 si sviluppano:

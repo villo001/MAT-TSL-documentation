@@ -61,7 +61,7 @@ Le infrastrutture rimaste continuano a influenzare il livello delle acque in mod
 Entro la fine del 2077 il Mediterraneo è considerato interamente prosciugato tranne le fosse più profonde, che diventano piccoli bacini chiusi ad altissima salinità.
 
 ## Fase VI – Era Postbellica (2077–2287)
-Due secoli di tempeste, vento costante e alterazioni climatiche estreme trasformano il vecchio fondale adriatico nel [Deserto Adriatico](/MAT-TSL-documentation/gamebible/worldbuilding/adriaticdesert/adriatic_desert.html):
+Due secoli di tempeste, vento costante e alterazioni climatiche estreme trasformano il vecchio fondale adriatico nel [Deserto Adriatico](/MAT-TSL-documentation/gamebible/setting/adriaticdesert/adriatic_desert.html):
 - dune di sabbia e limo;
 - superfici erose e polverizzate;
 - clima caldo e ostile.
