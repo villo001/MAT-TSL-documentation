@@ -34,11 +34,9 @@ Scorri la guida per scoprire:
 ---
 
 # Sezioni principali
-- [Documenti di Design](/MAT-TSL-documentation/designdocs/index.html)
 - [Game Bible](/MAT-TSL-documentation/gamebible/index.html)
 - [Guida del Giocatore](/MAT-TSL-documentation/playerguide/index.html)
 
 ---
 
-- [Struttura Documentazione](/MAT-TSL-documentation/architecture.html)
 - [Indice Completo](/MAT-TSL-documentation/complete_index.html)
