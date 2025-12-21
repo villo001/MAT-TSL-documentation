@@ -4,7 +4,8 @@ version: 0.0.1
 status: Draft
 ---
 
-# Vision Overview - Mediterranean Atomic Tales: The Sunken Land
+# Vision Overview - Mediterranean Atomic Tales: The Sunken Land (one-pager)
+Versione one-pager, per la visione completa consultare [Vision Document completo](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html).
 
 ## Vision Statement
 **Mediterranean Atomic Tales: The Sunken Land (MAT:TSL)** è un RPG open-world in prima persona ambientato in un’Europa post-apocalittica alternativa modellata dal prosciugamento del [Mare Adriatico](/MAT-TSL-documentation/gamebible/setting/adriaticdesert/adriatic_desert.html) causato da [Neo Atlantropa](/MAT-TSL-documentation/gamebible/setting/neoatlantropa/neo_atlantropa.html) e dal collasso globale successivo alla guerra nucleare del 2077. Il gioco unisce **esplorazione, sopravvivenza e narrazione profonda**, invitando il giocatore a scoprire e reinterpretare le cicatrici di un passato ingombrante.
