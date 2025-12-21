@@ -37,6 +37,7 @@ Questo documento contiene **tutti i link** alla documentazione di *Mediterranean
   - [Abilità e Perk](/MAT-TSL-documentation/playerguide/skillsandperks.html)
   - [Consigli e Strategie](/MAT-TSL-documentation/playerguide/tipsandtricks.html)
   - [Visione e Origini](/MAT-TSL-documentation/playerguide/visionandorigins/index.html)
-    - [La nostra visione](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html)
+    - [Come nasce il progetto?](/MAT-TSL-documentation/playerguide/visionandorigins/howitstarted.html)
+    - [Il documento di visione ufficiale](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html)
     - [Origini delle Idee](/MAT-TSL-documentation/playerguide/visionandorigins/origins.html)
   - [Mappa del Mondo](/MAT-TSL-documentation/playerguide/worldmap.html)

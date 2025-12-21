@@ -22,7 +22,7 @@ Ma Torino, Milano, Roma e Napoli non sono l'Italia; nel resto del belpaese cosa 
 
 Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunken Land__, un progetto nel quale puoi esplorare tutto quello che concerne l'Italia dai _Conflitti Energetici_ in poi.
 
-# Leggi [Cone nasce il progetto?](/MAT-TSL-documentation/playerguide/visionandorigins/howitstarted.html)
+# Leggi [Come nasce il progetto?](/MAT-TSL-documentation/playerguide/visionandorigins/howitstarted.html)
 # Leggi [Il documento di visione ufficiale](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html)
 # Leggi [La timeline Europea](/MAT-TSL-documentation/gamebible/setting/historytimeline.html)
 
