@@ -24,7 +24,7 @@ Proprio per rispondere a questo nasce __Mediterranean Atomic Tales - The Sunken 
 
 # Leggi [Come nasce il progetto?](/MAT-TSL-documentation/playerguide/visionandorigins/howitstarted.html)
 # Leggi [Il documento di visione ufficiale](/MAT-TSL-documentation/playerguide/visionandorigins/vision.html)
-# Leggi [La timeline Europea](/MAT-TSL-documentation/gamebible/setting/historytimeline.html)
+# Leggi [La timeline Europea](/MAT-TSL-documentation/gamebible/setting/history/historytimeline.html)
 
 ---
 
