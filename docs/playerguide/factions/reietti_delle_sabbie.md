@@ -9,7 +9,7 @@
 I Reietti delle Sabbie sono l'anima nera e pulsante del commercio della Costa. Stanziati tra i moli interrati di Porto Corsigno, hanno trasformato un cumulo di relitti e magazzini abbandonati nel mercato più fornito del Deserto Adriatico. Sono sciacalli, contrabbandieri, ladri e sognatori che rifiutano il giogo di qualsiasi padrone. Nonostante l'aspetto trasandato e le armature raffazzonate, possiedono la rete informativa più capillare della regione. Se qualcosa esiste tra le sabbie, i Reietti sanno dove si trova, quanto costa e come recuperarla.
 
 ## STORIA CONOSCIUTA
-Nati dalle ceneri delle vecchie comunità portuali e dai fuggitivi delle altre fazioni, i Reietti non hanno una cronologia ufficiale, ma una serie di leggende. Si dicono discendenti di chi "non voleva piegare la schiena né ai preti, né ai generali". Hanno trasformato Porto Corsigno in una zona franca, respingendo i tentativi di annessione grazie a un sistema di trappole, cecchini e, soprattutto, rendendosi indispensabili a tutti. Durante la "Grande Carestia Energetica", furono i Reietti a rifornire segretamente persino l'Esarcato, cementando il loro ruolo di intermediari intoccabili.
+Nati dalle ceneri delle vecchie comunità portuali e dai fuggitivi delle altre fazioni, i Reietti non hanno una cronologia ufficiale, ma una serie di leggende. Si dicono discendenti di chi "non voleva piegare la schiena né ai preti, né ai generali". Hanno trasformato Porto Corsigno in una zona franca, respingendo i tentativi di annessione grazie a un sistema di trappole, cecchini e, soprattutto, rendendosi indispensabili a tutti. Durante la "Grande Carestia Energetica", furono i Reietti a rifornire segretamente persino l'Esarcato Neobizantino, cementando il loro ruolo di intermediari intoccabili.
 
 ## STRUTTURA E GOVERNO
 * **Tipo di Governo:** Anarchia Cooperativa / Sindacato del Libero Scambio.
@@ -28,10 +28,10 @@ Nati dalle ceneri delle vecchie comunità portuali e dai fuggitivi delle altre f
 
 ## RELAZIONI CON ALTRE FAZIONI
 * **Dunei:** Rapporto di fratellanza silenziosa. Si considerano cugini distanti. I Reietti sono gli unici a cui i Dunei permettono di raccogliere Eliobionti senza ritorsioni, a patto che venga rispettato il ciclo naturale.
-* **Eninova:** Dipendenza di Eninova che disprezza i Reietti ma non può sopravvivere senza i pezzi di ricambio che solo loro possono fornire. Acquistano anche Eliobionti, nelle piccole quantità che i Reietti sono disposti a fornire.
-* **Esarcato di Ravenna:** Fornitori abituali. I Reietti commerciano con Ravenna pur ridendo dei loro rituali, consapevoli che metà dell'incenso cerimoniale è in realtà composto da scarti industriali che loro stessi hanno venduto ai Diaconi. A loro volta l'Esarcato fornisce medicine e sostanze ricavate nello stabilimento Snamra.
-* **Abbazia di Pomposa:** Protettori informali. Spesso scambiano viveri con i monaci in cambio di informazioni estratte dai vecchi testi o per il semplice rispetto verso la loro tensione mistica.
-* **Serenissima di Venezia:** Competizione e affari. Sono rivali mercantili di Venezia anche se non sono in grado di gestire i loro volumi, ma non disdegnano di collaborare per grandi colpi, per forniture reciproche o per aggirare i blocchi dell'Esarcato.
+* **Fratellanza Eninova:** Dipendenza di Eninova che disprezza i Reietti ma non può sopravvivere senza i pezzi di ricambio che solo loro possono fornire. Acquistano anche Eliobionti, nelle piccole quantità che i Reietti sono disposti a fornire.
+* **Esarcato Neobizantino di Ravenna:** Fornitori abituali. I Reietti commerciano con Ravenna pur ridendo dei loro rituali, consapevoli che metà dell'incenso cerimoniale è in realtà composto da scarti industriali che loro stessi hanno venduto ai Diaconi. A loro volta l'Esarcato fornisce medicine e sostanze ricavate nello stabilimento Snamra.
+* **Ordine Solare Vaticano:** Protettori informali. Spesso scambiano viveri con i monaci in cambio di informazioni estratte dai vecchi testi o per il semplice rispetto verso la loro tensione mistica.
+* **Lega Veneziana:** Competizione e affari. Sono rivali mercantili di Venezia anche se non sono in grado di gestire i loro volumi, ma non disdegnano di collaborare per grandi colpi, per forniture reciproche o per aggirare i blocchi dell'Esarcato.
 
 ## VIVERE SOTTO IL LORO CONTROLLO
 Porto Corsigno è rumorosa, caotica e vibrante. Chi vive qui gode di una libertà assoluta, ma deve essere pronto a difendere se stesso e la comunità.

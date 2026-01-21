@@ -1,4 +1,4 @@
-# ESARCATO DI RAVENNA
+# ESARCATO NEOBIZANTINO DI RAVENNA
 
 > "La fiamma non mente mai. Essa purifica il peccato del passato e illumina il cammino verso la Restaurazione. Chinate il capo, poiché l'Esarca parla con la voce del Sole e della Storia."
 > -- Diacono Chromos, Guardiano della Fiamma Eterna
@@ -6,7 +6,7 @@
 ---
 
 ## INTRODUZIONE
-L'Esarcato di Ravenna è un'entità teocratica e politica che fonde il misticismo religioso con l'eredità amministrativa dell'antica capitale imperiale. Dominano l'area di Ravenna, presentandosi come i legittimi eredi dell'ordine civile. La loro fede è incentrata sulla "Luce Purificatrice", una dottrina che vede negli Eliobionti e nei reagenti chimici strumenti divini per riportare il mondo alla sua antica gloria. Esteticamente, l'Esarcato unisce paramenti bizantini a maschere antigas dorate e armature cerimoniali.
+L'Esarcato Neobizantino di Ravenna è un'entità teocratica e politica che fonde il misticismo religioso con l'eredità amministrativa dell'antica capitale imperiale. Dominano l'area di Ravenna, presentandosi come i legittimi eredi dell'ordine civile. La loro fede è incentrata sulla "Luce Purificatrice", una dottrina che vede negli Eliobionti e nei reagenti chimici strumenti divini per riportare il mondo alla sua antica gloria. Esteticamente, l'Esarcato unisce paramenti bizantini a maschere antigas dorate e armature cerimoniali.
 
 ## STORIA CONOSCIUTA
 Mentre il mare si ritirava e le città venivano abbandonate, a Ravenna un gruppo di funzionari e leader religiosi riuscì a mantenere il controllo sulla popolazione promettendo protezione divina e stabilità. Occuparono l'immenso polo chimico (ex SNAM), dichiarandolo "Terra Sacra" e fonte della vita. Attraverso l'uso sapiente di reagenti chimici per generare fiamme colorate e luci prodigiose, l'Esarcato ha consolidato un potere assoluto basato sulla meraviglia e sul terrore religioso. Hanno resistito a secoli di assedi grazie alle loro "mura di fuoco" e alla disciplina delle loro guardie fanatiche.
@@ -27,11 +27,11 @@ Mentre il mare si ritirava e le città venivano abbandonate, a Ravenna un gruppo
 * **Equipaggiamento Standard:** Armi a fiamma chimica (Lanciafiamme di Grado Sacro), granate incendiarie e armature di maglia rinforzata con piastre ceramiche decorate con icone.
 
 ## RELAZIONI CON ALTRE FAZIONI
-* **Eninova:** Un'alleanza forzata. L'Esarcato fornisce i reagenti chimici dell'impianto SNAM, senza i quali i processi di Eninova sarebbero inefficienti. In cambio, riceve manutenzione per i sistemi più complessi della città. Si guardano con reciproco sospetto.
+* **Fratellanza Eninova:** Un'alleanza forzata. L'Esarcato fornisce i reagenti chimici dell'impianto SNAM, senza i quali i processi di Eninova sarebbero inefficienti. In cambio, riceve manutenzione per i sistemi più complessi della città. Si guardano con reciproco sospetto.
 * **Dunei:** Considerati eretici pagani. L'Esarcato invia periodicamente "Missioni di Conversione" nel deserto, che raramente fanno ritorno. Vedono il misticismo dei Dunei come una parodia blasfema della Vera Luce.
 * **Reietti delle Sabbie:** Tollerati come male necessario per l'approvvigionamento di materie prime grezze. I mercanti dei Reietti hanno un quartiere dedicato a Ravenna, ma sono costantemente sorvegliati.
-* **Abbazia di Pomposa:** Rivalità teologica. L'Esarcato vede i monaci di Pomposa come conservatori inutili che "nascondono la luce sotto il moggio", anziché usarla per governare.
-* **Serenissima di Venezia:** Rapporto di commercio di alto livello. L'Esarcato esporta profumi, droghe medicinali e reagenti rari in cambio di hardware di lusso e informazioni sul mondo esterno.
+* **Ordine Solare Vaticano:** Rivalità teologica. L'Esarcato vede i monaci diell'Ordine come conservatori inutili che "nascondono la luce sotto il moggio", anziché usarla per governare.
+* **Lega Veneziana:** Rapporto di commercio di alto livello. L'Esarcato esporta profumi, droghe medicinali e reagenti rari in cambio di hardware di lusso e informazioni sul mondo esterno.
 
 ## VIVERE SOTTO IL LORO CONTROLLO
 La vita a Ravenna è scandita da processioni e rituali. C'è abbondanza di beni di consumo rispetto al deserto, ma la sorveglianza dei Diaconi è onnipresente.
