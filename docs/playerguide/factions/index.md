@@ -5,9 +5,9 @@ title: Fazioni
 Attenzione, questa parte della player guide può contenere degli spoiler sul mondo di gioco, a voi la scelta se continuare o meno.
 
 ## Fazioni
-Il Deserto Adriatico e la Costa non sono deserti o popolati esclusivamente da bande armate ostili e fauna mutata pericolosa, esistono insediamenti, realtà strutturate con loro regole e e gerarchie, non sempre immediatamente ostili.
+Il Deserto Adriatico e la Costa non sono deserti o popolati esclusivamente da bande armate ostili e fauna mutata pericolosa, esistono insediamenti, realtà strutturate con loro regole e gerarchie, non sempre immediatamente ostili.
 
-In poche parole non siete soli in questo mondo, sta ora a voi trovare queste fazioni e cercare un contatto con loro.
+In poche parole non siete soli in questo mondo, ora sta a voi trovare queste fazioni e cercare un contatto con loro.
 
 Nel deserto, la cortesia salva la vita quanto un fucile carico, ma sapere a chi sorridere e a chi sparare fa la differenza tra un sopravvissuto e un cadavere insepolto. Non sempre vale il motto *ad ogni piccolo movimento spara, prima che l'altro faccia lo stesso con te*, però a volte sì.
 
