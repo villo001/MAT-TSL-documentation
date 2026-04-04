@@ -132,3 +132,4 @@ Quando arriverà alla versione **1.0.0**, il mondo sarà considerato **canonico 
 > *Il mondo è finito nel 2077.  
 > Ma le sue conseguenze non hanno mai smesso di propagarsi.*
 
+
